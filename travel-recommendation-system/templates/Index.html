@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Travel Recommendation System</title>
+    </head>
+    <body>
+        <h2>Travel Recommendation System</h2>
+        <form method="POST">
+
+Country:
+<select name="country">
+    <option>India</option>
+    <option>Foreign</option>
+</select>
+
+<br><br>
+
+Season:
+<select name="season">
+<option>Summer</option>
+<option>Winter</option>
+<option>Monsoon</option>
+</select>
+
+<br><br>
+
+Trip Type:
+<select name="trip_type">
+<option>Adventure</option>
+<option>Relaxation</option>
+<option>Cultural</option>
+</select>
+
+<br><br>
+
+Budget:
+<input type="number" name="budget">
+
+<br><br>
+
+Temperature:
+<input type="number" name="temp">
+
+<br><br>
+
+Rain Level:
+<select name="rain">
+<option>Low</option>
+<option>Medium</option>
+<option>High</option>
+</select>
+
+<br><br>
+
+Duration Days:
+<input type="number" name="duration">
+
+<br><br>
+
+Crowd Level:
+<select name="crowd">
+<option>Low</option>
+<option>Medium</option>
+<option>High</option>
+</select>
+
+<br><br>
+
+<button type="submit">Recommend</button>
+
+</form>
+    {% if recommendations %}
+
+    <h3>Recommended Places:</h3>
+    <ul>
+        {% for place  in recommendations %}
+        <li>{{ place}}</li>
+        {% endfor%}
+    </ul>
+    {% endif %}
+    </body>
+</html>

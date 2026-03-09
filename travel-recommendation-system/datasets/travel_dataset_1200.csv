@@ -1,0 +1,1201 @@
+Place,Country,Season,Best_Month,Min_Budget,Max_Budget,Trip_Type,Avg_Temp,Rain_Level,Duration_Days,Crowd_Level
+New Zealand,Foreign,Summer,January,41048,110244,Trek,-2,Low,4,High
+Sri Lanka,Foreign,Summer,January,17280,79594,Trek,22,Low,6,High
+Iceland,Foreign,Autumn,July,33893,156650,Adventure,-10,Medium,9,Medium
+Mount Abu,India,Winter,April,49118,80911,Tour,14,Low,8,Medium
+Canada,Foreign,Rainy,January,65217,210785,Tour,14,Low,7,High
+Australia,Foreign,Rainy,October,30203,53436,Tour,32,Medium,7,Low
+Morocco,Foreign,Winter,February,54823,132692,Leisure,30,High,5,Medium
+Vietnam,Foreign,Winter,November,39993,63710,Trek,24,Medium,5,Medium
+Finland,Foreign,Rainy,November,95198,157768,Adventure,-7,Medium,3,Medium
+Nepal,Foreign,Rainy,February,32653,120143,Trek,31,Snow,9,High
+Japan,Foreign,Winter,May,23301,92952,Adventure,27,Snow,9,Medium
+Meghalaya,India,Winter,September,69686,98517,Tour,-3,Medium,5,High
+Sri Lanka,Foreign,Autumn,February,55432,160471,Leisure,23,High,3,High
+Austria,Foreign,Summer,November,75381,150327,Adventure,-3,High,9,Low
+Japan,Foreign,Summer,December,99329,173374,Trek,22,Low,7,High
+Maldives,Foreign,Autumn,April,25032,128051,Trek,24,Low,8,Medium
+Leh-Ladakh,India,Summer,June,45306,113076,Tour,5,Low,4,High
+Dubai,Foreign,Summer,September,21483,60140,Leisure,25,Medium,7,High
+Norway,Foreign,Autumn,July,32760,179133,Trek,35,High,9,High
+Iceland,Foreign,Rainy,August,72839,196193,Tour,5,Medium,4,Medium
+Leh-Ladakh,India,Autumn,September,35161,97889,Tour,-6,Low,6,Low
+Valley of Flowers,India,Rainy,February,72391,139782,Adventure,32,Snow,6,High
+Kashmir,India,Autumn,October,66953,135653,Leisure,16,Medium,4,Low
+Greece,Foreign,Spring,June,60519,173286,Leisure,-7,Low,3,Medium
+Austria,Foreign,Rainy,February,37591,92815,Trek,24,Snow,5,Medium
+Goa,India,Rainy,August,37742,62503,Leisure,25,Low,3,High
+Malaysia,Foreign,Summer,February,35982,84579,Leisure,21,Snow,6,Medium
+Munnar,India,Winter,July,5282,112628,Adventure,19,High,9,High
+Austria,Foreign,Autumn,November,99163,231740,Trek,2,High,6,Low
+New York,Foreign,Autumn,January,46104,66089,Tour,27,Snow,5,Low
+Maldives,Foreign,Summer,March,13981,36796,Trek,15,Low,6,High
+Canada,Foreign,Summer,October,15745,130642,Adventure,6,Medium,8,Low
+Shimla,India,Spring,March,93039,176681,Leisure,10,Low,3,Medium
+Australia,Foreign,Autumn,February,14602,160539,Trek,22,High,5,Medium
+Coorg,India,Winter,June,42353,88705,Leisure,24,High,3,High
+South Africa,Foreign,Autumn,May,91951,124105,Trek,6,Low,4,High
+Paris,Foreign,Winter,May,41930,102145,Adventure,3,High,10,Medium
+Morocco,Foreign,Summer,February,88136,204173,Adventure,-8,Low,8,Low
+New Zealand,Foreign,Rainy,March,62912,212531,Leisure,25,Low,4,Low
+Spain,Foreign,Winter,September,9722,111509,Trek,17,Medium,3,Medium
+Switzerland,Foreign,Summer,June,32535,102947,Tour,12,Snow,5,Low
+Norway,Foreign,Winter,March,59040,70537,Trek,11,Snow,6,Medium
+Spiti Valley,India,Summer,July,10075,138463,Trek,2,Snow,8,Medium
+South Africa,Foreign,Winter,April,8101,63728,Leisure,11,High,4,Medium
+Vietnam,Foreign,Autumn,July,94065,239630,Adventure,-9,Low,7,Low
+New York,Foreign,Rainy,January,19208,138126,Adventure,10,Snow,4,Medium
+London,Foreign,Winter,May,10817,130126,Tour,23,Medium,8,Medium
+Coorg,India,Rainy,October,46145,83814,Adventure,22,High,9,Medium
+Nepal,Foreign,Rainy,September,21683,76972,Leisure,32,Snow,5,High
+London,Foreign,Rainy,July,76819,81925,Adventure,8,Medium,9,High
+Canada,Foreign,Rainy,August,62905,183814,Trek,22,Snow,5,High
+Auli,India,Rainy,September,92012,184879,Tour,5,High,6,Low
+Tawang,India,Summer,January,37092,166646,Tour,19,Snow,6,High
+Spain,Foreign,Spring,August,57383,126342,Trek,31,Low,4,Medium
+Meghalaya,India,Winter,December,72889,199667,Tour,25,Medium,4,Medium
+Kashmir,India,Spring,November,74616,162793,Leisure,29,Snow,10,Low
+South Korea,Foreign,Spring,August,38972,108784,Adventure,23,Snow,6,Medium
+Indonesia,Foreign,Summer,December,42450,108921,Adventure,11,High,4,Low
+Tawang,India,Winter,July,95957,141013,Trek,-6,Snow,9,Medium
+Malaysia,Foreign,Spring,July,13161,72381,Leisure,14,Low,9,Medium
+Manali,India,Rainy,May,56116,170959,Trek,21,Medium,7,Medium
+Dubai,Foreign,Summer,July,49057,160046,Trek,19,Medium,3,Medium
+New York,Foreign,Autumn,November,8552,35558,Leisure,-2,Snow,5,Low
+Shimla,India,Spring,June,32742,156938,Adventure,11,Snow,7,Medium
+Shimla,India,Summer,August,7540,153945,Tour,12,Medium,4,High
+Valley of Flowers,India,Summer,April,31130,41472,Trek,5,Medium,10,High
+Rishikesh,India,Autumn,April,65952,138124,Adventure,0,Low,5,Medium
+Jaipur,India,Autumn,January,45888,149272,Leisure,35,Medium,4,High
+Spain,Foreign,Winter,February,96382,180440,Tour,26,Low,8,High
+Sri Lanka,Foreign,Rainy,February,71317,165768,Tour,16,Snow,4,Medium
+Switzerland,Foreign,Spring,December,25052,144212,Trek,23,High,10,Medium
+Sri Lanka,Foreign,Autumn,May,47245,116600,Tour,7,Snow,6,Medium
+London,Foreign,Autumn,November,54674,147858,Tour,21,High,5,Medium
+Darjeeling,India,Rainy,May,49608,127918,Adventure,25,Low,6,Low
+Ooty,India,Spring,August,77768,145767,Leisure,31,Snow,10,Low
+Auli,India,Rainy,April,58005,126785,Adventure,32,High,10,High
+Singapore,Foreign,Rainy,July,77140,168854,Adventure,34,Snow,7,Medium
+Shimla,India,Winter,February,99540,155024,Adventure,-3,Medium,6,Low
+South Korea,Foreign,Spring,May,99972,242502,Adventure,-4,Medium,7,Low
+Switzerland,Foreign,Winter,May,6854,151874,Trek,7,Low,3,High
+Pondicherry,India,Winter,November,69340,101232,Tour,26,High,10,Medium
+Indonesia,Foreign,Rainy,March,11734,82919,Leisure,-3,Low,9,Medium
+Coorg,India,Autumn,November,94974,114027,Trek,-1,High,4,Low
+Rishikesh,India,Autumn,July,84471,148633,Leisure,18,Snow,7,High
+Sri Lanka,Foreign,Rainy,October,86399,107188,Tour,3,Medium,7,High
+Auli,India,Winter,April,27782,177483,Tour,0,Low,9,Medium
+Spain,Foreign,Autumn,August,43175,56731,Trek,8,High,10,Low
+Italy,Foreign,Winter,May,86927,143784,Leisure,-3,Medium,5,Medium
+South Africa,Foreign,Winter,February,12816,61311,Adventure,28,High,10,Low
+Japan,Foreign,Rainy,December,57757,134124,Leisure,18,Low,3,Medium
+South Korea,Foreign,Rainy,October,37816,49596,Tour,4,Low,7,High
+Valley of Flowers,India,Winter,August,73021,193948,Adventure,1,Snow,10,Low
+Turkey,Foreign,Rainy,July,48687,137850,Tour,0,High,9,High
+Dubai,Foreign,Rainy,November,57488,206692,Tour,19,Low,8,Medium
+Bali,Foreign,Summer,July,72449,77750,Leisure,16,Low,6,High
+Switzerland,Foreign,Autumn,August,86973,207851,Tour,3,High,5,Medium
+Indonesia,Foreign,Spring,February,8783,76513,Trek,9,Low,9,Low
+Meghalaya,India,Summer,August,20396,65758,Leisure,35,High,7,Medium
+Egypt,Foreign,Spring,August,36946,161689,Trek,14,Medium,5,Low
+Mount Abu,India,Spring,June,71550,146587,Tour,8,High,10,Low
+Indonesia,Foreign,Autumn,August,50236,142383,Leisure,19,High,6,High
+Ooty,India,Autumn,July,35613,148295,Tour,10,Snow,9,Medium
+Greece,Foreign,Winter,August,9852,47946,Adventure,-4,Snow,4,High
+Japan,Foreign,Summer,December,23894,136367,Trek,-6,Snow,7,Medium
+Australia,Foreign,Spring,November,15527,106658,Leisure,10,Snow,3,High
+Coorg,India,Winter,November,94705,175039,Trek,-5,Snow,4,High
+Germany,Foreign,Summer,August,26805,110308,Tour,-8,High,3,Medium
+Vietnam,Foreign,Rainy,July,24080,93094,Leisure,26,Medium,5,Low
+Auli,India,Autumn,July,86226,154358,Leisure,27,Medium,6,Medium
+New Zealand,Foreign,Rainy,August,38466,45929,Leisure,8,Medium,4,Medium
+Vietnam,Foreign,Autumn,May,88746,204976,Adventure,19,High,6,Medium
+Morocco,Foreign,Spring,February,36091,141063,Adventure,26,High,7,Low
+Egypt,Foreign,Spring,May,6061,23917,Leisure,8,Medium,8,Low
+New Zealand,Foreign,Winter,October,37850,78705,Tour,30,Low,7,Medium
+Valley of Flowers,India,Autumn,June,22224,50851,Adventure,10,Snow,5,Low
+Kashmir,India,Autumn,June,74579,211121,Adventure,0,High,10,Medium
+South Korea,Foreign,Rainy,February,66385,91124,Trek,4,Snow,8,Low
+Peru,Foreign,Spring,January,39663,185322,Tour,19,High,7,High
+Finland,Foreign,Rainy,February,93452,159747,Leisure,-9,High,6,High
+Coorg,India,Spring,December,44608,156640,Tour,-2,Low,3,Medium
+Dubai,Foreign,Summer,February,35775,181689,Trek,14,Snow,8,High
+South Korea,Foreign,Autumn,July,81983,127490,Leisure,31,Low,10,High
+Bhutan,Foreign,Rainy,January,95476,197608,Trek,18,Snow,6,Medium
+Jaipur,India,Rainy,September,89518,188542,Tour,15,High,6,Low
+Morocco,Foreign,Spring,February,91870,152472,Tour,-7,High,6,Low
+Peru,Foreign,Autumn,April,13992,73297,Trek,4,High,5,High
+Manali,India,Rainy,March,22038,168652,Adventure,1,Low,3,Low
+Manali,India,Rainy,April,82182,172056,Tour,1,High,3,Low
+South Korea,Foreign,Spring,September,19896,41557,Leisure,18,High,4,Medium
+Maldives,Foreign,Winter,October,10683,152378,Adventure,19,Low,3,Medium
+Morocco,Foreign,Spring,July,94928,128229,Leisure,35,Snow,4,Low
+Bali,Foreign,Autumn,March,13609,51689,Adventure,29,High,9,High
+Singapore,Foreign,Rainy,August,71263,189037,Tour,34,Low,6,Medium
+Indonesia,Foreign,Winter,July,49424,173306,Leisure,16,Low,8,Medium
+Bali,Foreign,Rainy,June,25006,154332,Tour,-5,Low,4,Medium
+Jaipur,India,Rainy,March,77924,98647,Adventure,32,Low,9,Medium
+Norway,Foreign,Spring,December,11743,92143,Adventure,12,Low,6,Low
+Greece,Foreign,Spring,April,19184,115964,Adventure,-3,High,6,Medium
+Morocco,Foreign,Autumn,October,85422,97304,Adventure,-9,Medium,7,High
+Hong Kong,Foreign,Rainy,June,51009,57609,Trek,-1,Snow,4,Low
+South Korea,Foreign,Summer,February,74531,135926,Leisure,16,Snow,8,Low
+Switzerland,Foreign,Rainy,December,47517,74787,Tour,-1,Medium,3,High
+Auli,India,Rainy,August,91761,207913,Leisure,28,Snow,9,Medium
+Darjeeling,India,Autumn,February,50242,167941,Tour,8,Snow,7,Low
+Meghalaya,India,Spring,October,12180,19195,Trek,9,Medium,5,Medium
+Pondicherry,India,Rainy,February,6013,141399,Leisure,1,Medium,9,High
+Germany,Foreign,Winter,September,78233,176075,Tour,15,Low,9,Low
+Japan,Foreign,Summer,June,80465,197999,Leisure,35,Snow,7,Low
+Nepal,Foreign,Summer,June,27527,153138,Adventure,-5,Snow,4,Low
+Sri Lanka,Foreign,Autumn,July,73676,99292,Leisure,9,High,6,Medium
+Philippines,Foreign,Winter,February,71910,106801,Trek,12,High,5,Low
+Jaipur,India,Winter,May,30856,81337,Trek,31,Low,5,High
+Dubai,Foreign,Spring,October,80952,203629,Adventure,30,High,5,Medium
+Coorg,India,Spring,August,87756,172138,Adventure,27,Low,8,High
+Coorg,India,Rainy,August,64233,79091,Tour,13,High,4,High
+Norway,Foreign,Summer,October,82867,220791,Leisure,19,Low,10,High
+Iceland,Foreign,Winter,June,84299,213982,Trek,-7,Snow,4,Medium
+Germany,Foreign,Summer,September,89689,139924,Tour,5,Snow,10,High
+Singapore,Foreign,Autumn,March,52696,155436,Adventure,14,Snow,8,High
+Canada,Foreign,Summer,November,89843,182569,Tour,11,Low,9,Medium
+Shimla,India,Autumn,March,48694,75059,Trek,12,High,9,Low
+Canada,Foreign,Summer,May,78259,182003,Adventure,-2,Low,9,High
+Switzerland,Foreign,Summer,June,45483,97737,Trek,11,Snow,6,Low
+Kashmir,India,Winter,February,43770,75283,Tour,32,High,5,High
+Finland,Foreign,Winter,March,28703,77098,Leisure,-8,Snow,8,High
+Austria,Foreign,Winter,August,85031,164723,Leisure,4,Medium,7,Medium
+Egypt,Foreign,Winter,June,93907,214406,Leisure,8,Snow,9,Low
+South Africa,Foreign,Winter,October,23140,93676,Tour,31,Snow,8,High
+Jaipur,India,Autumn,February,42363,69350,Trek,7,Snow,5,Medium
+Auli,India,Winter,August,50820,62811,Leisure,-7,Snow,8,Low
+Finland,Foreign,Summer,June,34430,46819,Adventure,-4,High,5,Low
+Valley of Flowers,India,Rainy,August,96235,137618,Leisure,18,Low,4,Low
+Shimla,India,Winter,March,76932,220284,Leisure,-3,High,6,Medium
+Rishikesh,India,Summer,April,60027,184856,Tour,-3,Snow,3,High
+Maldives,Foreign,Autumn,April,99181,141818,Adventure,17,Low,8,Low
+London,Foreign,Spring,March,92080,119523,Adventure,-6,Low,9,Medium
+Valley of Flowers,India,Spring,June,38246,47503,Adventure,-6,High,6,High
+Greece,Foreign,Summer,October,48583,88555,Tour,12,High,5,High
+Japan,Foreign,Spring,November,28891,69241,Tour,35,Snow,3,Medium
+Andaman,India,Summer,April,10492,98223,Adventure,22,Snow,10,Medium
+Valley of Flowers,India,Winter,May,51789,69320,Adventure,7,Low,8,Medium
+Nepal,Foreign,Spring,July,49438,103411,Leisure,34,Snow,8,High
+Mount Abu,India,Summer,December,60640,86330,Leisure,28,Medium,7,Medium
+Jaipur,India,Summer,June,91628,174128,Adventure,18,Snow,5,High
+Indonesia,Foreign,Rainy,August,10551,107972,Leisure,7,Low,4,High
+New Zealand,Foreign,Spring,June,72251,119190,Tour,-1,Snow,3,Low
+Coorg,India,Winter,November,53015,152950,Leisure,26,Low,5,High
+Indonesia,Foreign,Rainy,June,63188,88343,Trek,23,High,9,Medium
+Iceland,Foreign,Rainy,April,19869,31662,Trek,21,Snow,4,Medium
+Philippines,Foreign,Rainy,December,63493,124741,Adventure,34,Snow,6,Low
+Kashmir,India,Summer,August,27630,149313,Tour,33,High,8,High
+Coorg,India,Autumn,September,43058,126689,Trek,35,Medium,8,High
+Meghalaya,India,Summer,April,23202,90260,Leisure,-9,High,8,Medium
+Brazil,Foreign,Autumn,March,85209,112809,Tour,9,Snow,10,High
+Bhutan,Foreign,Spring,October,14666,52519,Adventure,31,Low,10,Medium
+Italy,Foreign,Autumn,June,21821,171341,Trek,-2,Snow,3,Low
+Singapore,Foreign,Winter,May,26581,74039,Adventure,35,Medium,8,High
+Pondicherry,India,Summer,May,30729,180128,Adventure,-2,High,4,High
+Iceland,Foreign,Winter,October,81106,126527,Trek,32,High,3,Low
+Auli,India,Summer,November,80598,154975,Trek,26,Snow,3,Medium
+New Zealand,Foreign,Autumn,May,89136,173328,Leisure,5,Snow,7,Medium
+Coorg,India,Summer,March,62619,176571,Leisure,19,Medium,8,High
+Tawang,India,Rainy,December,46853,142389,Leisure,-2,High,4,Medium
+Ooty,India,Spring,February,40058,162916,Trek,-1,Low,3,Medium
+Finland,Foreign,Autumn,July,37541,84405,Adventure,26,High,6,Low
+Dubai,Foreign,Autumn,August,70373,156255,Leisure,-9,Low,9,High
+Japan,Foreign,Winter,April,81460,178969,Tour,-7,High,10,High
+Egypt,Foreign,Spring,May,75345,82488,Tour,17,Medium,7,High
+Switzerland,Foreign,Spring,June,10930,120940,Tour,26,Medium,8,High
+Pondicherry,India,Summer,July,71093,194150,Adventure,29,Low,5,Low
+Nepal,Foreign,Rainy,June,78116,178957,Trek,2,Snow,3,Low
+Valley of Flowers,India,Winter,December,48652,177841,Leisure,-1,Medium,8,High
+Bali,Foreign,Winter,July,85805,169247,Adventure,22,Snow,7,Medium
+South Africa,Foreign,Summer,June,48416,82148,Leisure,27,High,3,High
+Turkey,Foreign,Rainy,November,80821,145470,Tour,27,Snow,5,High
+New Zealand,Foreign,Autumn,July,24369,92859,Tour,26,Low,6,Low
+Indonesia,Foreign,Rainy,July,24848,138103,Trek,16,Snow,3,High
+Kashmir,India,Autumn,April,78516,168725,Leisure,23,Snow,8,Low
+Japan,Foreign,Autumn,June,76601,174475,Adventure,29,Snow,6,Low
+Mount Abu,India,Autumn,May,34473,117490,Adventure,35,Medium,10,Medium
+Turkey,Foreign,Rainy,September,99589,176274,Adventure,-3,Snow,9,Medium
+Philippines,Foreign,Winter,May,10513,90913,Tour,12,Snow,7,High
+Turkey,Foreign,Winter,April,75592,151667,Adventure,-2,Low,6,Low
+Munnar,India,Autumn,April,88616,154652,Tour,-4,Snow,8,High
+Turkey,Foreign,Summer,November,23018,29376,Trek,16,Snow,10,High
+Andaman,India,Rainy,June,42409,62918,Tour,31,Medium,3,Low
+Bhutan,Foreign,Winter,January,57034,191895,Trek,8,Low,3,Medium
+London,Foreign,Autumn,February,48914,128510,Leisure,31,Snow,5,High
+Japan,Foreign,Rainy,April,19764,111450,Trek,19,High,5,Low
+South Korea,Foreign,Rainy,May,79420,135056,Trek,29,Snow,9,High
+Bali,Foreign,Summer,July,92720,122724,Trek,-2,Snow,8,Low
+Manali,India,Rainy,July,35870,157979,Adventure,11,High,3,Medium
+Iceland,Foreign,Rainy,December,35972,57257,Tour,19,High,5,Medium
+Italy,Foreign,Autumn,December,45760,81539,Adventure,13,Medium,6,Low
+Turkey,Foreign,Winter,August,84395,187338,Leisure,34,Snow,6,Low
+Italy,Foreign,Autumn,February,73879,195991,Adventure,-6,Low,3,High
+Maldives,Foreign,Winter,October,75341,119623,Trek,10,Snow,4,High
+Darjeeling,India,Autumn,August,16919,155710,Leisure,-7,Snow,5,High
+Bhutan,Foreign,Spring,October,12567,138776,Adventure,-9,Snow,7,Low
+South Korea,Foreign,Winter,October,14572,31444,Leisure,12,Low,3,Low
+Turkey,Foreign,Summer,May,58591,110772,Trek,31,Snow,8,Medium
+Indonesia,Foreign,Spring,July,15518,161892,Trek,31,High,4,Low
+Malaysia,Foreign,Spring,September,21691,85067,Tour,-9,High,10,High
+Austria,Foreign,Autumn,July,74721,179146,Trek,5,Snow,8,Low
+Mount Abu,India,Winter,December,19790,33235,Leisure,29,Low,6,Low
+Coorg,India,Summer,October,9400,131431,Tour,5,Low,9,Medium
+Meghalaya,India,Autumn,April,12398,54133,Adventure,4,High,8,Low
+Hampi,India,Winter,November,73321,136266,Leisure,9,High,3,High
+New York,Foreign,Winter,November,93965,210953,Leisure,-7,High,9,High
+Bali,Foreign,Spring,July,24558,108171,Leisure,1,Snow,6,Low
+Hampi,India,Winter,August,12552,125732,Leisure,25,Medium,9,Low
+Shimla,India,Winter,June,89765,115492,Leisure,13,Low,6,Low
+Mount Abu,India,Spring,November,84294,99661,Tour,2,Medium,10,Low
+Norway,Foreign,Rainy,May,7009,67533,Trek,-3,Snow,6,High
+Canada,Foreign,Winter,July,36369,186093,Adventure,8,Snow,10,High
+Iceland,Foreign,Rainy,May,39283,138561,Leisure,19,Low,10,Medium
+Darjeeling,India,Rainy,June,59254,76238,Trek,-1,Low,7,High
+New York,Foreign,Autumn,December,59732,142114,Trek,2,High,6,Medium
+London,Foreign,Winter,August,77173,170663,Adventure,21,Snow,10,Low
+Austria,Foreign,Rainy,March,23344,171617,Leisure,1,Low,3,Low
+South Africa,Foreign,Summer,January,59053,100095,Trek,-6,Medium,3,Low
+Maldives,Foreign,Spring,June,12923,144592,Leisure,-9,Low,9,Low
+Leh-Ladakh,India,Autumn,December,41010,186450,Adventure,-9,Snow,5,Low
+Jaipur,India,Autumn,March,36584,91897,Adventure,12,High,9,Low
+Switzerland,Foreign,Spring,August,79055,147810,Trek,9,Low,3,Low
+Nepal,Foreign,Spring,July,77443,207224,Tour,30,Low,5,Low
+Dubai,Foreign,Spring,November,48420,78418,Tour,4,Medium,10,Medium
+Valley of Flowers,India,Summer,November,41749,189101,Tour,1,High,3,Low
+New York,Foreign,Winter,December,57205,82373,Adventure,0,Medium,9,High
+Malaysia,Foreign,Rainy,July,23343,48902,Adventure,-7,Low,9,Low
+Egypt,Foreign,Summer,June,84320,193313,Adventure,-9,High,10,Medium
+Meghalaya,India,Rainy,September,54207,172413,Trek,33,Snow,4,High
+Pondicherry,India,Winter,December,14634,41139,Adventure,-1,Snow,5,High
+Finland,Foreign,Rainy,June,18965,47956,Tour,9,Snow,8,Medium
+Jaipur,India,Winter,February,29561,147539,Leisure,25,Snow,4,Low
+Auli,India,Rainy,September,17198,107245,Leisure,-10,High,9,Medium
+Philippines,Foreign,Summer,December,78339,146972,Trek,33,Snow,5,Low
+Mount Abu,India,Rainy,May,69634,112889,Tour,0,Snow,7,Medium
+Hampi,India,Spring,February,52333,123314,Trek,30,Snow,6,Medium
+Jaipur,India,Winter,May,5887,114615,Adventure,29,Snow,8,Medium
+Thailand,Foreign,Spring,November,82908,123592,Adventure,10,Medium,10,Medium
+Goa,India,Spring,June,43200,176914,Trek,10,Snow,7,Medium
+Switzerland,Foreign,Summer,October,31188,179221,Trek,33,Low,10,High
+Darjeeling,India,Spring,May,95811,118940,Leisure,33,Snow,5,High
+Hampi,India,Winter,May,91332,136739,Leisure,14,Low,10,High
+Turkey,Foreign,Autumn,July,75040,212845,Leisure,24,Low,8,High
+Brazil,Foreign,Autumn,October,88647,115924,Tour,5,High,5,High
+Australia,Foreign,Summer,October,89545,199302,Adventure,17,Low,3,Low
+Shimla,India,Winter,September,72999,135941,Leisure,13,Snow,10,High
+New York,Foreign,Autumn,March,50215,61653,Leisure,-4,High,9,Low
+Rishikesh,India,Winter,June,45880,140812,Leisure,3,Snow,8,Medium
+Jaipur,India,Spring,December,96326,219932,Adventure,-6,High,3,High
+Rishikesh,India,Summer,June,89930,123598,Trek,5,Medium,5,Medium
+Paris,Foreign,Spring,August,35389,146569,Trek,1,Snow,9,Low
+South Korea,Foreign,Autumn,April,63926,181530,Leisure,-10,Medium,6,Medium
+Hong Kong,Foreign,Summer,October,18336,164078,Trek,13,High,6,Medium
+Rishikesh,India,Rainy,November,69157,212494,Adventure,28,Snow,9,High
+Rishikesh,India,Rainy,June,65012,115239,Adventure,29,Low,5,Medium
+Rishikesh,India,Winter,May,20328,73312,Adventure,34,Medium,9,Medium
+Canada,Foreign,Winter,October,55293,171190,Trek,21,Medium,5,Medium
+Pondicherry,India,Winter,March,46232,169459,Tour,12,Low,10,Low
+Andaman,India,Spring,September,71248,206001,Leisure,33,Snow,9,High
+Egypt,Foreign,Spring,August,26922,53593,Tour,4,High,3,Medium
+Meghalaya,India,Autumn,May,27047,151931,Leisure,25,Low,4,Medium
+Philippines,Foreign,Autumn,June,76046,91953,Leisure,24,Medium,9,Low
+South Korea,Foreign,Winter,May,9224,132118,Adventure,12,Low,10,Low
+Philippines,Foreign,Winter,April,82060,178975,Leisure,0,Medium,6,Low
+Brazil,Foreign,Summer,October,50982,195516,Adventure,28,Medium,8,High
+Pondicherry,India,Rainy,October,40041,179891,Tour,-2,Snow,3,Medium
+Norway,Foreign,Winter,December,22392,92843,Trek,35,High,6,High
+Nepal,Foreign,Spring,March,80684,156126,Leisure,14,Snow,4,High
+Peru,Foreign,Summer,July,72582,150517,Adventure,19,Snow,8,High
+Manali,India,Summer,December,65089,163994,Tour,24,Snow,6,Medium
+South Africa,Foreign,Winter,August,40197,129834,Adventure,11,Medium,10,Medium
+Italy,Foreign,Summer,January,18051,143527,Tour,-3,Medium,10,Medium
+Manali,India,Spring,April,95255,134835,Adventure,0,High,4,High
+Switzerland,Foreign,Rainy,February,53738,102129,Tour,15,High,6,Medium
+Iceland,Foreign,Summer,December,17475,22759,Trek,20,Low,5,High
+Meghalaya,India,Autumn,November,63335,70769,Tour,34,High,4,Medium
+Spain,Foreign,Winter,August,14283,79300,Leisure,-5,Low,4,Medium
+Switzerland,Foreign,Rainy,March,55164,95067,Trek,-6,Low,5,Medium
+Vietnam,Foreign,Winter,November,24840,137767,Leisure,3,Low,4,Low
+Hong Kong,Foreign,Summer,October,55335,152487,Leisure,10,Medium,6,Medium
+Iceland,Foreign,Summer,April,77534,157224,Tour,32,High,6,High
+Canada,Foreign,Autumn,April,56347,138821,Tour,5,Snow,9,Low
+Ooty,India,Spring,November,82847,106462,Tour,13,High,5,Medium
+Norway,Foreign,Autumn,July,52895,201119,Trek,20,Low,3,High
+Coorg,India,Summer,May,33277,48717,Tour,15,High,9,Medium
+Spain,Foreign,Spring,February,88956,234613,Trek,7,Low,7,Low
+Maldives,Foreign,Winter,March,75305,165960,Leisure,27,Low,7,High
+Sri Lanka,Foreign,Winter,January,37044,64644,Leisure,-3,Snow,3,Medium
+Greece,Foreign,Winter,February,6660,47629,Tour,0,Snow,8,High
+Singapore,Foreign,Rainy,March,53741,92015,Adventure,-3,Low,8,Medium
+Mount Abu,India,Autumn,February,39465,64668,Leisure,19,High,3,Medium
+Morocco,Foreign,Autumn,March,53193,99430,Adventure,-4,Low,6,High
+Maldives,Foreign,Summer,January,6610,75717,Tour,20,High,9,Low
+Goa,India,Summer,September,98588,213523,Trek,10,Medium,9,High
+Bali,Foreign,Rainy,February,79912,182641,Tour,22,Low,5,Low
+Brazil,Foreign,Autumn,January,57550,80618,Leisure,8,High,8,Low
+Paris,Foreign,Spring,January,53354,110958,Adventure,26,High,6,Medium
+Switzerland,Foreign,Autumn,August,30614,178891,Trek,-1,Low,9,Low
+Meghalaya,India,Autumn,June,88354,95869,Adventure,-10,Snow,7,Low
+Darjeeling,India,Autumn,April,60026,194008,Tour,-1,High,4,Low
+Meghalaya,India,Autumn,July,96861,199507,Leisure,-5,Low,5,High
+South Africa,Foreign,Spring,February,82580,103907,Leisure,32,Medium,6,Medium
+Shimla,India,Rainy,July,96845,187369,Adventure,18,High,6,Low
+Andaman,India,Winter,October,19283,65022,Tour,0,Snow,10,Medium
+Bhutan,Foreign,Summer,September,51961,111391,Leisure,9,Snow,7,Low
+Auli,India,Winter,November,44874,60446,Trek,10,Medium,4,High
+Ooty,India,Rainy,July,72300,90132,Adventure,6,Medium,3,Medium
+Morocco,Foreign,Spring,September,77105,147602,Tour,19,Low,5,Low
+Manali,India,Summer,April,22133,79072,Leisure,13,Low,7,Low
+Leh-Ladakh,India,Summer,April,89670,210912,Trek,-5,High,4,Low
+Japan,Foreign,Summer,March,80220,198769,Leisure,21,Low,9,High
+Sri Lanka,Foreign,Winter,June,33143,87203,Adventure,7,Snow,5,Low
+Australia,Foreign,Autumn,October,37215,119575,Leisure,16,Snow,3,Low
+Mount Abu,India,Spring,March,59949,117235,Trek,30,Low,9,High
+Vietnam,Foreign,Spring,September,68527,163713,Adventure,14,High,5,Low
+Bali,Foreign,Autumn,April,8840,87484,Tour,20,High,6,Low
+Jaipur,India,Winter,November,36608,111476,Tour,4,Snow,8,Low
+Goa,India,Winter,October,46681,145733,Tour,35,High,5,High
+Andaman,India,Spring,September,45508,96529,Leisure,-8,Low,3,Low
+Canada,Foreign,Winter,January,74002,204303,Tour,11,Medium,5,Medium
+Germany,Foreign,Winter,June,12806,23550,Trek,27,Medium,4,High
+Norway,Foreign,Rainy,February,53967,162670,Tour,11,High,8,Low
+Spiti Valley,India,Spring,November,68858,157031,Trek,35,High,6,High
+New York,Foreign,Winter,July,45215,127420,Trek,1,Low,9,High
+Valley of Flowers,India,Winter,October,46709,109615,Tour,21,Medium,8,High
+Coorg,India,Winter,June,46879,95889,Tour,35,High,10,Low
+Shimla,India,Winter,April,95855,118626,Adventure,6,Low,3,Low
+Finland,Foreign,Spring,December,60004,108608,Leisure,21,Snow,8,High
+Finland,Foreign,Summer,August,80766,144901,Trek,18,Low,3,Medium
+Leh-Ladakh,India,Rainy,May,18726,43177,Adventure,0,Snow,5,High
+Coorg,India,Autumn,February,49295,180841,Tour,17,Medium,9,Low
+Munnar,India,Summer,June,31941,86744,Leisure,34,High,7,Medium
+Ooty,India,Summer,January,56498,205588,Leisure,-1,Low,8,Low
+Sri Lanka,Foreign,Summer,May,91772,222687,Trek,-4,Low,6,Low
+New Zealand,Foreign,Rainy,February,67071,102350,Adventure,15,Snow,10,High
+Shimla,India,Summer,November,76319,182906,Trek,13,Snow,8,Low
+Indonesia,Foreign,Summer,May,62637,189549,Adventure,4,High,3,Low
+Hong Kong,Foreign,Summer,February,92574,187696,Leisure,27,Medium,3,Medium
+South Africa,Foreign,Autumn,July,75190,204662,Trek,20,High,4,Medium
+Morocco,Foreign,Summer,September,79870,220350,Trek,-3,Snow,5,Low
+Darjeeling,India,Winter,March,10593,126578,Tour,33,Snow,6,High
+Tawang,India,Autumn,May,46910,69476,Tour,14,Snow,8,Medium
+Singapore,Foreign,Spring,January,96804,238790,Leisure,-3,Snow,5,Low
+London,Foreign,Autumn,October,18133,50824,Tour,8,High,9,Medium
+Finland,Foreign,Spring,October,84817,213823,Tour,1,High,9,Low
+Australia,Foreign,Autumn,November,95919,206227,Tour,15,High,6,Low
+South Korea,Foreign,Spring,May,53816,64119,Adventure,9,High,7,Medium
+Morocco,Foreign,Summer,April,22614,106383,Leisure,10,High,9,High
+Iceland,Foreign,Summer,April,62896,123310,Leisure,21,High,3,High
+Peru,Foreign,Winter,February,45779,183632,Leisure,-2,Low,5,Low
+Egypt,Foreign,Winter,January,37701,51370,Leisure,-7,High,6,Medium
+Switzerland,Foreign,Spring,September,57028,94500,Tour,5,High,10,High
+Indonesia,Foreign,Winter,August,81923,231451,Adventure,12,Medium,7,High
+Egypt,Foreign,Summer,May,8597,114932,Tour,0,Medium,6,High
+Meghalaya,India,Winter,May,90404,202753,Tour,33,Low,10,Low
+Iceland,Foreign,Winter,October,6109,69768,Adventure,28,High,7,Medium
+Finland,Foreign,Rainy,August,38029,100231,Leisure,9,Snow,4,Low
+Maldives,Foreign,Rainy,September,89848,168950,Adventure,33,Low,10,Low
+Thailand,Foreign,Rainy,November,47616,125199,Adventure,31,High,6,Low
+Singapore,Foreign,Winter,January,83647,194578,Adventure,33,Medium,3,High
+Dubai,Foreign,Rainy,May,59862,170925,Leisure,-8,Medium,8,High
+Germany,Foreign,Winter,November,75075,204786,Adventure,22,High,5,High
+Paris,Foreign,Winter,May,17793,146205,Trek,6,Medium,8,High
+Auli,India,Winter,June,34272,119772,Leisure,11,High,7,High
+Pondicherry,India,Spring,February,66674,85745,Tour,20,Medium,4,High
+Finland,Foreign,Autumn,May,59146,78318,Trek,-2,Medium,8,Medium
+London,Foreign,Spring,March,46469,98748,Tour,21,High,5,Medium
+New Zealand,Foreign,Summer,January,64251,140954,Trek,0,Medium,10,Low
+Kashmir,India,Autumn,July,88032,205599,Leisure,17,Snow,9,Low
+Valley of Flowers,India,Autumn,April,53903,62593,Adventure,23,Medium,3,High
+Manali,India,Winter,April,95901,191170,Adventure,-2,Low,9,High
+New York,Foreign,Rainy,March,13557,30541,Adventure,8,Snow,8,Medium
+Italy,Foreign,Winter,June,69248,168423,Trek,0,Snow,3,Low
+Meghalaya,India,Winter,April,7872,145158,Trek,-3,High,3,Medium
+New Zealand,Foreign,Rainy,September,86675,104411,Tour,32,Low,3,Low
+Spain,Foreign,Summer,July,63237,167918,Tour,25,High,10,High
+Tawang,India,Winter,December,94881,102320,Adventure,16,Low,7,High
+Canada,Foreign,Winter,July,18751,157859,Tour,8,Low,4,Medium
+Andaman,India,Autumn,April,39471,181610,Trek,12,Snow,7,Low
+Valley of Flowers,India,Autumn,August,32222,163225,Adventure,5,Low,3,High
+Auli,India,Summer,October,92690,227216,Trek,-5,Low,4,Medium
+Iceland,Foreign,Winter,August,43800,118038,Leisure,-7,Low,5,Low
+Morocco,Foreign,Rainy,June,93705,180679,Leisure,-3,Low,3,Low
+Morocco,Foreign,Winter,November,89829,139527,Adventure,12,Snow,7,High
+Auli,India,Rainy,June,28969,63809,Leisure,15,Snow,7,Medium
+Spain,Foreign,Spring,July,90045,138765,Tour,-2,Low,5,Low
+Bhutan,Foreign,Autumn,August,79572,199433,Trek,29,Snow,8,High
+Leh-Ladakh,India,Winter,August,68979,103584,Leisure,18,Low,4,Medium
+Iceland,Foreign,Rainy,January,97349,239926,Trek,32,High,4,Medium
+Greece,Foreign,Winter,August,50318,156211,Trek,25,Low,3,High
+Spiti Valley,India,Autumn,August,69990,118349,Tour,21,High,6,Medium
+Mount Abu,India,Summer,September,34190,183499,Leisure,15,Medium,4,Medium
+Indonesia,Foreign,Autumn,August,16536,152203,Leisure,10,Low,10,High
+Iceland,Foreign,Summer,February,57879,170971,Tour,25,Low,4,High
+Australia,Foreign,Rainy,September,78706,137930,Leisure,11,High,3,Low
+Morocco,Foreign,Spring,June,78420,207449,Adventure,35,Snow,4,Low
+Hong Kong,Foreign,Winter,January,49742,147839,Adventure,25,High,4,Low
+Spiti Valley,India,Spring,March,98959,211231,Tour,6,Medium,6,Low
+Morocco,Foreign,Spring,April,64905,119864,Adventure,-4,Snow,3,High
+Egypt,Foreign,Autumn,February,64048,188949,Trek,21,Low,3,High
+Sri Lanka,Foreign,Autumn,August,71628,123080,Trek,-2,Low,9,High
+Canada,Foreign,Autumn,June,71074,176911,Leisure,28,Medium,7,Medium
+Thailand,Foreign,Rainy,August,22481,63704,Leisure,28,High,8,High
+South Korea,Foreign,Autumn,November,33487,91148,Trek,29,High,8,High
+Kashmir,India,Winter,September,76105,165615,Tour,12,Snow,9,High
+South Korea,Foreign,Autumn,May,60363,68710,Tour,-9,Snow,5,Low
+Greece,Foreign,Summer,April,39993,87181,Adventure,33,High,5,Low
+Spain,Foreign,Rainy,April,75932,89400,Adventure,18,Low,6,High
+Iceland,Foreign,Autumn,July,36142,175077,Adventure,34,Low,9,Medium
+Bhutan,Foreign,Rainy,September,12051,20449,Adventure,2,Snow,6,High
+Germany,Foreign,Rainy,October,76645,133148,Trek,8,Snow,5,High
+Coorg,India,Winter,March,72350,108637,Leisure,-8,Snow,7,High
+Shimla,India,Winter,March,81544,153394,Tour,11,Snow,5,Low
+Tawang,India,Rainy,October,11665,95610,Leisure,26,High,4,High
+Bali,Foreign,Autumn,April,29100,170573,Tour,22,Medium,9,High
+Malaysia,Foreign,Spring,February,50796,113781,Trek,32,High,8,Medium
+Pondicherry,India,Winter,October,74533,204013,Tour,-3,High,10,Low
+Iceland,Foreign,Autumn,October,36958,52411,Adventure,14,Low,9,Medium
+Malaysia,Foreign,Rainy,January,72746,176039,Leisure,21,Low,7,High
+Andaman,India,Rainy,September,15793,45947,Trek,24,Low,4,Low
+Greece,Foreign,Winter,November,60601,92844,Trek,24,Snow,4,High
+Italy,Foreign,Winter,January,65191,157148,Tour,-5,Low,3,Low
+Peru,Foreign,Rainy,September,14232,78907,Adventure,16,Snow,10,High
+Nepal,Foreign,Spring,June,7213,114318,Tour,24,Low,4,High
+New York,Foreign,Summer,December,14514,113282,Tour,8,High,4,Medium
+Hong Kong,Foreign,Spring,July,56788,69867,Leisure,0,Medium,5,High
+Nepal,Foreign,Autumn,May,88105,130873,Adventure,33,High,3,High
+Norway,Foreign,Autumn,March,21152,37102,Tour,26,Snow,4,Medium
+Darjeeling,India,Rainy,April,59087,198449,Trek,0,Medium,6,High
+Egypt,Foreign,Rainy,April,20023,72564,Tour,25,Snow,4,Medium
+Greece,Foreign,Summer,May,17871,74622,Leisure,11,High,5,High
+Iceland,Foreign,Winter,February,42373,65672,Trek,10,Snow,10,Medium
+Australia,Foreign,Rainy,December,81568,126517,Adventure,10,Snow,5,Low
+Bali,Foreign,Winter,April,98349,217676,Adventure,13,Medium,8,Medium
+Japan,Foreign,Spring,June,45038,177694,Tour,1,Low,7,Low
+Malaysia,Foreign,Winter,May,87132,112176,Tour,-9,Low,9,High
+Darjeeling,India,Summer,September,39159,186626,Leisure,31,Medium,8,Medium
+Meghalaya,India,Autumn,December,43141,83237,Leisure,22,Low,9,Medium
+Maldives,Foreign,Summer,November,36310,84784,Trek,18,Medium,5,High
+London,Foreign,Winter,December,68373,167429,Tour,4,Snow,6,Low
+Shimla,India,Rainy,April,10610,69814,Adventure,14,Snow,10,Low
+Valley of Flowers,India,Rainy,February,97240,238914,Adventure,6,Medium,9,High
+Finland,Foreign,Rainy,October,90634,116038,Adventure,14,Medium,9,Medium
+South Africa,Foreign,Rainy,August,68191,74920,Trek,18,Medium,6,Low
+Maldives,Foreign,Rainy,April,24692,78688,Trek,13,Low,6,Medium
+Brazil,Foreign,Rainy,December,19855,151081,Leisure,20,Medium,5,High
+Egypt,Foreign,Spring,January,36938,53248,Trek,26,Medium,5,High
+Maldives,Foreign,Summer,October,24249,43905,Trek,6,Medium,9,High
+London,Foreign,Summer,December,91736,171041,Tour,3,Snow,10,Medium
+Spiti Valley,India,Winter,July,83753,126164,Trek,29,High,5,High
+Italy,Foreign,Rainy,August,83188,106234,Trek,14,Snow,5,Low
+Leh-Ladakh,India,Winter,September,71107,186153,Trek,28,Low,5,Medium
+Australia,Foreign,Autumn,January,74655,211599,Tour,-5,Snow,5,High
+Malaysia,Foreign,Summer,November,90096,208210,Leisure,13,Low,9,Low
+Brazil,Foreign,Spring,July,50943,81558,Leisure,-2,High,10,Low
+Morocco,Foreign,Summer,May,83419,230954,Leisure,6,Medium,3,High
+South Korea,Foreign,Summer,October,73490,109378,Tour,14,Medium,8,Medium
+Switzerland,Foreign,Summer,March,60846,132334,Adventure,24,Snow,8,High
+Mount Abu,India,Spring,April,59162,208892,Leisure,1,High,10,Medium
+Hampi,India,Autumn,June,97470,206837,Trek,32,Low,6,Medium
+Peru,Foreign,Winter,February,33109,171368,Leisure,11,Low,5,Medium
+New Zealand,Foreign,Summer,February,24048,152693,Leisure,-5,Low,7,Low
+Switzerland,Foreign,Summer,October,9948,115696,Leisure,29,High,3,Low
+New Zealand,Foreign,Spring,August,6403,64279,Adventure,2,Low,6,High
+Spiti Valley,India,Summer,June,36359,41434,Trek,-5,High,9,Medium
+Greece,Foreign,Spring,July,81818,139328,Tour,35,Low,4,High
+Pondicherry,India,Autumn,October,50625,146713,Adventure,4,Medium,10,Medium
+London,Foreign,Summer,May,27942,139669,Tour,25,Low,7,Medium
+Rishikesh,India,Autumn,May,75504,146077,Leisure,14,Snow,6,Medium
+Philippines,Foreign,Spring,November,65387,77556,Leisure,-3,High,4,Medium
+New Zealand,Foreign,Winter,November,96904,162178,Adventure,16,High,3,High
+Egypt,Foreign,Rainy,April,42655,72036,Leisure,33,High,4,High
+Goa,India,Spring,June,51338,113633,Adventure,1,Medium,10,High
+Andaman,India,Winter,December,36726,111300,Trek,4,Medium,6,High
+Vietnam,Foreign,Winter,February,20712,46287,Leisure,29,Low,3,Medium
+Switzerland,Foreign,Autumn,June,69532,146551,Leisure,1,High,9,Low
+Hong Kong,Foreign,Autumn,March,12097,154915,Leisure,20,Low,8,Medium
+Norway,Foreign,Winter,August,20776,161620,Leisure,10,Low,3,High
+Darjeeling,India,Spring,October,18205,108516,Adventure,29,High,5,High
+Shimla,India,Winter,May,66780,161720,Adventure,1,Snow,9,Low
+Bhutan,Foreign,Rainy,June,57506,135809,Leisure,1,Medium,6,Low
+Austria,Foreign,Rainy,April,77789,196092,Leisure,2,Medium,5,Medium
+Brazil,Foreign,Summer,March,60249,196215,Trek,30,High,10,Medium
+Shimla,India,Autumn,October,11253,120691,Tour,34,Medium,3,Low
+South Africa,Foreign,Rainy,August,87557,117801,Leisure,11,High,8,Medium
+Paris,Foreign,Autumn,May,50107,60306,Leisure,-3,High,6,High
+London,Foreign,Autumn,March,42304,140393,Adventure,33,Snow,10,Low
+Finland,Foreign,Autumn,May,65784,108755,Trek,30,High,9,High
+Australia,Foreign,Autumn,July,14351,40089,Trek,11,Medium,8,Medium
+Iceland,Foreign,Rainy,December,40058,148724,Adventure,18,High,10,Medium
+Spiti Valley,India,Winter,January,21389,87895,Adventure,34,Low,6,Low
+Nepal,Foreign,Summer,February,13361,142403,Tour,-9,Snow,4,Low
+Shimla,India,Autumn,March,16050,123245,Adventure,4,Medium,7,Medium
+New Zealand,Foreign,Winter,March,74041,123764,Tour,-8,High,8,Medium
+Japan,Foreign,Autumn,May,76898,198511,Trek,34,Medium,10,High
+South Korea,Foreign,Autumn,July,73610,218538,Adventure,12,Snow,6,Low
+Indonesia,Foreign,Rainy,June,59028,132134,Trek,9,Low,3,High
+South Africa,Foreign,Winter,June,42586,170583,Tour,34,Snow,10,Medium
+Manali,India,Spring,May,83250,148861,Tour,25,High,6,Medium
+Paris,Foreign,Spring,July,37754,85554,Leisure,14,Medium,7,Low
+Sri Lanka,Foreign,Winter,September,85375,161642,Adventure,31,High,9,Low
+Morocco,Foreign,Summer,March,22907,103822,Tour,30,Snow,10,Medium
+Spain,Foreign,Autumn,August,29613,118667,Tour,-1,Low,3,Low
+Jaipur,India,Rainy,May,21389,141317,Tour,4,Low,5,Low
+Dubai,Foreign,Winter,June,60082,146759,Leisure,13,Snow,3,Medium
+Auli,India,Winter,January,39931,147802,Tour,24,Snow,5,Low
+Egypt,Foreign,Rainy,July,6653,43624,Trek,14,Snow,6,High
+Valley of Flowers,India,Winter,August,17315,158928,Trek,20,Snow,7,Medium
+Spiti Valley,India,Summer,December,77034,218591,Tour,6,Snow,7,Low
+Switzerland,Foreign,Summer,November,33545,68148,Trek,30,Snow,8,Low
+Spiti Valley,India,Rainy,October,20682,129440,Trek,-10,Low,10,High
+Canada,Foreign,Winter,June,16728,86929,Trek,21,Low,8,High
+Munnar,India,Summer,June,89485,134833,Tour,-2,Snow,6,Medium
+Paris,Foreign,Rainy,August,30292,40889,Leisure,12,Medium,7,Low
+Dubai,Foreign,Spring,September,43628,190902,Leisure,2,Medium,8,Medium
+Austria,Foreign,Spring,May,83470,130503,Tour,23,Medium,10,Medium
+South Africa,Foreign,Rainy,September,53118,177152,Tour,30,Snow,5,Low
+Australia,Foreign,Rainy,October,36298,125366,Tour,32,Snow,6,High
+Italy,Foreign,Spring,September,25202,104422,Adventure,16,High,4,Low
+Singapore,Foreign,Summer,January,22009,73838,Tour,2,Low,10,Low
+Jaipur,India,Summer,October,89115,195983,Leisure,23,High,3,Medium
+Meghalaya,India,Autumn,December,14289,22719,Trek,31,Snow,4,Medium
+Brazil,Foreign,Summer,June,78140,192179,Adventure,35,Low,7,High
+Valley of Flowers,India,Summer,May,15215,76811,Tour,-4,Medium,9,Low
+Andaman,India,Autumn,November,37605,89502,Leisure,-4,High,10,High
+Greece,Foreign,Spring,February,26864,79153,Leisure,22,High,5,High
+Canada,Foreign,Spring,June,46307,195507,Adventure,13,Snow,9,High
+Bali,Foreign,Autumn,April,78812,226844,Trek,14,High,8,Medium
+Indonesia,Foreign,Spring,January,9543,89118,Tour,23,Medium,7,Low
+Hampi,India,Winter,April,46275,56963,Adventure,25,Medium,4,Low
+Japan,Foreign,Rainy,March,23141,97606,Adventure,27,Medium,6,Medium
+Brazil,Foreign,Rainy,February,79774,189578,Trek,-6,High,10,Low
+Dubai,Foreign,Autumn,February,83018,166764,Tour,26,Snow,4,Low
+Philippines,Foreign,Rainy,June,61925,176113,Tour,4,Low,9,Low
+Hampi,India,Autumn,January,46853,193392,Trek,10,Medium,5,Low
+Italy,Foreign,Spring,August,83005,220316,Tour,4,Snow,7,Medium
+Tawang,India,Winter,June,15819,145561,Tour,25,Snow,7,Low
+Nepal,Foreign,Autumn,July,96471,135648,Trek,20,Medium,10,Medium
+Iceland,Foreign,Autumn,April,78553,220981,Trek,5,Low,7,Medium
+Bali,Foreign,Autumn,February,19749,133167,Leisure,13,High,6,Medium
+Vietnam,Foreign,Autumn,November,8172,93078,Trek,12,Snow,5,Medium
+Valley of Flowers,India,Winter,April,94831,197825,Trek,-5,Low,3,Low
+Australia,Foreign,Winter,May,6800,101786,Tour,9,Snow,10,Low
+Thailand,Foreign,Winter,December,75517,136058,Trek,24,High,10,High
+Austria,Foreign,Winter,December,96587,106407,Leisure,27,Low,7,Low
+Munnar,India,Rainy,April,96295,172409,Tour,19,Low,4,Medium
+Greece,Foreign,Rainy,November,91520,190949,Tour,-9,High,9,Low
+Finland,Foreign,Autumn,December,18055,105749,Leisure,28,Low,5,Low
+Maldives,Foreign,Spring,September,98384,109017,Tour,5,High,8,Medium
+Nepal,Foreign,Winter,January,50453,147704,Adventure,30,High,6,High
+Mount Abu,India,Summer,November,38774,145268,Tour,25,High,6,Low
+Thailand,Foreign,Spring,November,22991,51005,Leisure,23,Medium,9,Low
+London,Foreign,Winter,July,45944,137264,Leisure,24,Medium,6,High
+Kashmir,India,Autumn,September,94659,152693,Trek,9,Medium,9,Low
+Iceland,Foreign,Autumn,March,46614,69391,Tour,1,High,5,High
+Leh-Ladakh,India,Rainy,July,58903,143423,Leisure,30,High,5,Low
+Jaipur,India,Winter,March,8433,83389,Trek,28,Medium,6,High
+Leh-Ladakh,India,Rainy,February,95196,225134,Trek,22,Snow,8,Low
+Morocco,Foreign,Spring,August,67108,108156,Trek,2,Medium,3,Medium
+Hong Kong,Foreign,Summer,May,59138,122479,Trek,3,Low,5,Medium
+Norway,Foreign,Autumn,August,95159,185328,Leisure,5,Snow,9,Low
+Canada,Foreign,Spring,December,46012,154336,Tour,23,Low,10,Medium
+South Africa,Foreign,Summer,April,72987,218986,Leisure,-8,Snow,3,Low
+Pondicherry,India,Spring,July,44918,124868,Leisure,0,Snow,7,High
+Munnar,India,Autumn,March,65762,189171,Tour,22,Low,5,High
+Spain,Foreign,Autumn,March,56520,169932,Adventure,18,Low,5,Medium
+New York,Foreign,Winter,August,16820,87377,Adventure,34,Medium,4,Low
+Rishikesh,India,Spring,November,52571,79933,Leisure,22,Medium,9,High
+Finland,Foreign,Summer,March,48934,93279,Trek,-1,Medium,3,Medium
+Hampi,India,Rainy,December,63491,144193,Trek,-3,Medium,6,Low
+Australia,Foreign,Rainy,January,65115,200565,Leisure,24,Low,10,Low
+Darjeeling,India,Autumn,November,67352,191296,Leisure,18,Low,3,Low
+Paris,Foreign,Rainy,October,87396,146826,Tour,1,Medium,3,High
+Vietnam,Foreign,Summer,March,9250,92484,Adventure,-5,Low,4,Medium
+Goa,India,Winter,November,42274,93783,Leisure,27,High,3,Low
+Philippines,Foreign,Rainy,June,53309,157645,Tour,17,Low,7,Medium
+Kashmir,India,Summer,December,40968,132268,Leisure,23,Medium,6,High
+Munnar,India,Summer,October,87441,231101,Tour,20,High,9,High
+Morocco,Foreign,Rainy,May,73864,171624,Trek,29,Snow,10,Medium
+Brazil,Foreign,Winter,October,35503,116652,Trek,-10,Low,3,Medium
+New Zealand,Foreign,Summer,December,32175,145868,Leisure,-8,High,8,High
+Brazil,Foreign,Winter,January,88967,146707,Adventure,6,Low,7,Medium
+Maldives,Foreign,Autumn,June,5803,40644,Adventure,11,Snow,3,Low
+Andaman,India,Rainy,June,93142,223737,Leisure,-8,Medium,10,Low
+New Zealand,Foreign,Spring,September,48923,175156,Leisure,-7,High,8,High
+Malaysia,Foreign,Summer,April,80680,172638,Adventure,-6,Medium,7,Low
+Thailand,Foreign,Spring,November,75028,123535,Leisure,1,Low,7,High
+Morocco,Foreign,Rainy,December,9145,85316,Leisure,-5,Snow,6,Medium
+Indonesia,Foreign,Rainy,April,73825,158075,Trek,-3,High,3,Low
+Auli,India,Spring,September,8268,139795,Trek,2,High,10,High
+Norway,Foreign,Autumn,May,47904,90467,Tour,23,Medium,6,High
+Valley of Flowers,India,Spring,July,98543,240472,Tour,-10,High,3,High
+Morocco,Foreign,Autumn,February,48684,176072,Tour,-4,High,3,High
+Hong Kong,Foreign,Rainy,November,32504,121620,Trek,2,High,7,High
+Bali,Foreign,Spring,November,20420,96894,Trek,0,High,4,Low
+Australia,Foreign,Autumn,September,18418,77571,Adventure,25,High,7,Low
+Germany,Foreign,Rainy,October,37089,86987,Tour,9,High,10,Low
+Kashmir,India,Summer,August,93538,111764,Tour,14,Low,4,Medium
+Nepal,Foreign,Winter,December,83134,205007,Adventure,9,High,6,High
+Hong Kong,Foreign,Autumn,February,66039,105588,Tour,34,Snow,4,Medium
+Hampi,India,Spring,August,35368,99034,Trek,29,High,8,Medium
+Goa,India,Rainy,June,64412,197208,Tour,-6,Snow,4,Medium
+Turkey,Foreign,Spring,March,41996,138383,Trek,22,Low,9,High
+Peru,Foreign,Summer,June,77895,101487,Adventure,24,Snow,9,High
+Bhutan,Foreign,Winter,October,36941,185582,Trek,20,Snow,4,Medium
+Darjeeling,India,Autumn,July,62062,156767,Trek,1,Low,10,Low
+New York,Foreign,Autumn,August,47647,78246,Leisure,1,High,9,Low
+Canada,Foreign,Summer,November,83172,187501,Adventure,21,Low,4,Low
+South Africa,Foreign,Winter,October,88379,93427,Trek,32,Medium,10,High
+Pondicherry,India,Spring,October,80750,202970,Trek,3,High,7,High
+Peru,Foreign,Rainy,July,99082,194328,Tour,27,Low,9,Low
+Morocco,Foreign,Rainy,January,53394,202280,Tour,-10,High,4,Medium
+Norway,Foreign,Summer,April,61585,169940,Adventure,35,Snow,9,Medium
+Sri Lanka,Foreign,Autumn,April,91833,142291,Leisure,-2,Medium,9,Medium
+Egypt,Foreign,Spring,March,42810,80721,Trek,-10,Low,3,Low
+Austria,Foreign,Spring,November,62243,102835,Tour,-2,Snow,10,High
+Canada,Foreign,Spring,October,28566,152682,Leisure,25,Snow,9,Medium
+Meghalaya,India,Winter,July,84242,91189,Leisure,5,High,9,High
+London,Foreign,Rainy,January,9963,141648,Adventure,-3,Snow,4,Low
+Austria,Foreign,Autumn,May,65940,206455,Tour,23,Low,6,Medium
+New Zealand,Foreign,Summer,November,88058,234405,Adventure,29,Low,8,High
+Philippines,Foreign,Summer,August,64511,203902,Leisure,26,High,9,Medium
+Brazil,Foreign,Rainy,May,26955,41215,Adventure,26,High,3,High
+Turkey,Foreign,Autumn,March,80085,98616,Adventure,29,Low,7,Medium
+Auli,India,Winter,September,15074,92910,Adventure,-2,High,7,Medium
+Manali,India,Summer,October,27886,72505,Leisure,13,Medium,7,High
+Ooty,India,Spring,March,74125,87799,Adventure,-5,Medium,5,Medium
+Hong Kong,Foreign,Spring,July,36188,156579,Trek,3,High,3,High
+Shimla,India,Summer,January,26967,153605,Leisure,20,High,10,High
+Hong Kong,Foreign,Autumn,April,54781,162035,Leisure,6,Medium,9,Low
+Pondicherry,India,Spring,July,93931,181686,Tour,-4,High,9,High
+Iceland,Foreign,Rainy,June,40432,115447,Tour,6,Snow,10,High
+South Korea,Foreign,Winter,December,93065,149163,Adventure,33,Medium,8,High
+Manali,India,Summer,February,6567,119373,Tour,23,Low,10,Medium
+Meghalaya,India,Rainy,May,30307,44230,Tour,29,Low,3,High
+Greece,Foreign,Winter,October,88634,125560,Tour,-5,Medium,9,High
+Hong Kong,Foreign,Autumn,March,19528,72831,Adventure,8,Snow,4,High
+Japan,Foreign,Rainy,July,95730,185508,Adventure,0,Low,7,Low
+Finland,Foreign,Spring,June,12872,85567,Adventure,1,Snow,4,Medium
+Andaman,India,Autumn,July,28388,162377,Tour,-1,Snow,6,High
+Iceland,Foreign,Summer,August,98768,171662,Tour,-8,Low,4,High
+Austria,Foreign,Rainy,August,7459,142928,Trek,31,Low,3,High
+Finland,Foreign,Rainy,March,96757,188220,Leisure,26,Low,10,Medium
+Sri Lanka,Foreign,Spring,December,14188,160779,Trek,-10,Snow,10,Low
+London,Foreign,Autumn,June,48704,133088,Leisure,-7,Low,8,High
+Morocco,Foreign,Rainy,February,65245,146255,Trek,1,Low,9,High
+Andaman,India,Rainy,December,56131,89119,Adventure,21,Low,10,High
+Andaman,India,Winter,January,30309,41958,Trek,21,Snow,4,High
+Iceland,Foreign,Rainy,August,74984,197767,Tour,-8,High,3,Medium
+Peru,Foreign,Summer,July,20491,80981,Leisure,33,Medium,6,Low
+Valley of Flowers,India,Winter,August,90699,100696,Leisure,29,Low,6,High
+Iceland,Foreign,Winter,January,27577,45673,Adventure,-4,Snow,5,High
+Coorg,India,Summer,February,70161,132982,Tour,2,Snow,8,High
+Italy,Foreign,Spring,June,20833,168933,Trek,10,Medium,3,High
+Goa,India,Rainy,February,20826,97625,Trek,16,Medium,8,High
+Spiti Valley,India,Spring,April,81282,96950,Trek,-4,Snow,5,Low
+Dubai,Foreign,Summer,January,5946,57978,Tour,35,High,9,High
+Brazil,Foreign,Spring,December,21632,80675,Trek,30,High,10,Medium
+Ooty,India,Winter,October,95659,110521,Trek,35,Snow,4,High
+South Africa,Foreign,Rainy,June,59891,66089,Trek,2,Low,4,High
+Switzerland,Foreign,Autumn,September,33740,160431,Trek,7,Low,6,Low
+Peru,Foreign,Winter,November,67182,202602,Trek,0,Low,3,High
+Switzerland,Foreign,Rainy,April,61973,132871,Adventure,29,Snow,3,Low
+South Korea,Foreign,Summer,September,28053,74483,Tour,21,Low,4,Low
+Austria,Foreign,Spring,October,80990,171441,Leisure,2,High,6,Low
+Bali,Foreign,Winter,February,36079,149238,Trek,14,Medium,4,Medium
+New York,Foreign,Spring,January,62129,105124,Trek,29,Snow,5,Medium
+Switzerland,Foreign,Winter,August,99348,155244,Adventure,7,Medium,8,Low
+Valley of Flowers,India,Autumn,January,41779,82562,Tour,19,Snow,9,Low
+Hong Kong,Foreign,Rainy,April,43687,89788,Trek,26,Medium,4,Medium
+Morocco,Foreign,Autumn,August,33369,162491,Leisure,7,Low,9,High
+Norway,Foreign,Winter,April,47899,166734,Trek,27,Medium,3,Medium
+Valley of Flowers,India,Summer,August,71088,84901,Leisure,23,Snow,10,High
+South Africa,Foreign,Summer,August,69918,137966,Tour,25,Low,9,Low
+Kashmir,India,Rainy,May,36334,65118,Tour,20,High,5,High
+Japan,Foreign,Autumn,December,81501,92900,Leisure,19,Medium,9,Low
+Peru,Foreign,Rainy,November,65856,71213,Tour,14,High,3,Medium
+Sri Lanka,Foreign,Rainy,December,85281,232477,Trek,33,Low,8,High
+Munnar,India,Autumn,November,52708,71224,Tour,14,High,10,High
+Valley of Flowers,India,Rainy,June,27972,50537,Trek,-2,High,6,High
+Rishikesh,India,Spring,December,81037,141033,Trek,10,High,7,High
+Italy,Foreign,Spring,May,12138,33749,Adventure,12,Snow,10,High
+Singapore,Foreign,Summer,August,98038,242473,Adventure,18,High,4,Low
+Japan,Foreign,Summer,February,56207,108081,Adventure,-6,Low,5,Medium
+Rishikesh,India,Winter,August,24726,83270,Tour,8,Snow,5,Medium
+Vietnam,Foreign,Spring,August,89500,100131,Adventure,2,Low,3,Low
+Egypt,Foreign,Autumn,November,49024,161946,Adventure,31,High,10,High
+Greece,Foreign,Autumn,September,63360,188423,Adventure,26,Medium,7,Low
+Peru,Foreign,Rainy,April,68470,170961,Adventure,-7,Medium,8,Medium
+Japan,Foreign,Winter,October,26075,171405,Adventure,1,Medium,5,Low
+Ooty,India,Summer,January,46500,84654,Leisure,6,High,5,Low
+Paris,Foreign,Summer,November,46542,141679,Trek,13,Snow,5,High
+Hampi,India,Summer,January,58026,193945,Trek,19,High,5,Low
+South Korea,Foreign,Autumn,September,48421,130899,Leisure,8,Medium,10,Medium
+Spain,Foreign,Summer,December,67781,83287,Trek,33,Low,7,Low
+Nepal,Foreign,Autumn,April,63454,162142,Tour,10,Low,6,High
+Singapore,Foreign,Winter,May,30652,41562,Tour,24,Snow,4,High
+Nepal,Foreign,Winter,August,46649,185750,Tour,32,High,9,Low
+Germany,Foreign,Spring,June,55608,158343,Tour,8,High,8,Medium
+Indonesia,Foreign,Autumn,February,33271,154720,Leisure,18,High,5,High
+Sri Lanka,Foreign,Spring,March,81962,109526,Trek,3,High,10,High
+Thailand,Foreign,Summer,October,54253,82439,Tour,16,High,9,Low
+Paris,Foreign,Spring,December,79437,120331,Trek,1,Snow,7,High
+Dubai,Foreign,Summer,May,81704,166373,Leisure,25,Snow,6,Low
+Peru,Foreign,Summer,March,39429,123116,Leisure,-3,High,9,Low
+Dubai,Foreign,Winter,January,20644,98314,Leisure,-6,High,10,High
+Sri Lanka,Foreign,Rainy,November,94903,224694,Tour,13,Low,7,Low
+New York,Foreign,Summer,March,46901,172760,Trek,12,Medium,3,Medium
+Switzerland,Foreign,Spring,November,51659,69429,Adventure,8,Low,6,High
+Goa,India,Summer,October,26906,174436,Adventure,10,High,7,High
+Spain,Foreign,Rainy,February,75047,172224,Trek,-10,Medium,7,Medium
+Philippines,Foreign,Spring,July,49605,97342,Tour,3,Medium,6,Low
+Peru,Foreign,Autumn,October,95394,238190,Tour,16,Snow,4,Low
+South Africa,Foreign,Winter,January,67851,164132,Adventure,34,High,5,Medium
+Canada,Foreign,Autumn,June,27571,112442,Tour,-3,Medium,5,High
+Tawang,India,Winter,May,21429,81437,Trek,-5,Snow,4,Low
+Leh-Ladakh,India,Spring,July,10572,67044,Tour,-8,Low,10,Low
+Shimla,India,Summer,February,44537,52229,Tour,-3,Medium,6,Low
+Greece,Foreign,Rainy,January,16898,60054,Adventure,27,High,8,Low
+Morocco,Foreign,Autumn,December,85341,153733,Tour,-4,Low,6,High
+Andaman,India,Rainy,March,75402,81536,Tour,3,Snow,8,High
+New York,Foreign,Winter,August,93280,126414,Trek,12,Snow,9,Low
+Maldives,Foreign,Winter,July,19790,107176,Tour,19,Low,5,Medium
+Hong Kong,Foreign,Rainy,December,42784,58429,Tour,10,Snow,4,Medium
+Pondicherry,India,Spring,October,45895,167275,Trek,25,Snow,7,Medium
+Andaman,India,Summer,August,94015,195337,Trek,-10,Snow,4,Medium
+Indonesia,Foreign,Autumn,November,93672,120955,Tour,-1,Snow,9,High
+New York,Foreign,Summer,December,27114,49077,Adventure,2,High,6,High
+Morocco,Foreign,Spring,February,35522,151855,Leisure,7,High,9,Medium
+Turkey,Foreign,Autumn,July,68508,207572,Adventure,-1,Snow,4,Low
+Shimla,India,Spring,August,35254,75540,Tour,-4,Low,4,Medium
+Italy,Foreign,Summer,March,55152,145861,Trek,9,Low,4,High
+Hong Kong,Foreign,Autumn,August,66082,124017,Adventure,32,Snow,10,High
+Shimla,India,Autumn,June,75848,224141,Tour,-8,Snow,4,Medium
+Indonesia,Foreign,Rainy,July,63006,188502,Tour,-8,Medium,7,High
+Spiti Valley,India,Spring,July,22627,109536,Leisure,21,Low,10,High
+Paris,Foreign,Autumn,October,66580,196337,Trek,22,Low,9,Medium
+Dubai,Foreign,Autumn,July,85863,183337,Adventure,10,Low,3,High
+Valley of Flowers,India,Winter,June,50727,62778,Adventure,14,Low,9,Medium
+Vietnam,Foreign,Spring,June,12398,81421,Trek,5,High,4,High
+Coorg,India,Rainy,February,49249,98755,Tour,24,High,3,Medium
+Greece,Foreign,Spring,October,72470,187877,Adventure,-9,Snow,3,Medium
+Finland,Foreign,Autumn,July,47260,77878,Leisure,-4,Medium,8,Medium
+Maldives,Foreign,Rainy,March,85586,169103,Adventure,17,Medium,10,High
+Morocco,Foreign,Summer,September,33059,113387,Adventure,-7,High,9,Low
+Australia,Foreign,Summer,December,80784,110617,Adventure,7,Low,10,Medium
+Darjeeling,India,Rainy,February,90398,174525,Adventure,17,High,6,Medium
+Nepal,Foreign,Rainy,October,72550,196361,Trek,-9,Medium,10,Low
+Greece,Foreign,Spring,May,88614,233263,Leisure,26,Low,6,Medium
+Japan,Foreign,Winter,April,24722,108437,Leisure,16,High,4,High
+Darjeeling,India,Spring,May,42623,89719,Adventure,33,Medium,9,Low
+Rishikesh,India,Winter,April,8631,78010,Adventure,19,Snow,9,Medium
+Iceland,Foreign,Summer,April,25887,102376,Trek,-9,High,7,High
+Paris,Foreign,Winter,November,10535,142895,Tour,-7,Low,8,High
+Hampi,India,Summer,July,52636,81309,Leisure,-2,Medium,4,High
+South Korea,Foreign,Autumn,February,73414,216107,Adventure,21,Low,6,High
+Rishikesh,India,Rainy,June,81588,188811,Trek,17,Medium,5,Low
+Goa,India,Winter,May,62602,174655,Adventure,27,Low,10,High
+Switzerland,Foreign,Summer,June,76531,192622,Leisure,33,Medium,7,Low
+Switzerland,Foreign,Spring,December,53200,138985,Tour,31,Low,3,High
+Peru,Foreign,Winter,May,77447,183291,Adventure,30,High,4,High
+Norway,Foreign,Winter,August,55917,62979,Leisure,6,High,4,Low
+Hampi,India,Winter,March,62520,150667,Leisure,-8,High,4,Medium
+Turkey,Foreign,Spring,June,99029,214749,Tour,0,High,4,Medium
+Bhutan,Foreign,Autumn,December,76791,167451,Leisure,34,Low,3,High
+Iceland,Foreign,Winter,November,63117,103792,Tour,15,Medium,7,Medium
+London,Foreign,Summer,February,25686,96118,Trek,28,Snow,8,Medium
+Turkey,Foreign,Winter,May,27738,118611,Adventure,2,Low,9,Medium
+Goa,India,Spring,July,79762,143609,Tour,-9,Medium,4,Medium
+Andaman,India,Rainy,December,27119,45169,Leisure,29,Snow,7,Low
+Auli,India,Rainy,March,79349,115111,Tour,35,Snow,10,High
+Dubai,Foreign,Summer,April,98528,156781,Trek,7,High,10,Medium
+Kashmir,India,Spring,April,83654,145163,Adventure,33,Medium,9,Low
+Bhutan,Foreign,Winter,January,43036,116665,Trek,29,Snow,6,Medium
+New York,Foreign,Spring,February,6352,134266,Trek,10,Snow,6,High
+Finland,Foreign,Spring,December,83275,155443,Tour,-4,Low,3,Medium
+Ooty,India,Spring,June,84478,101408,Tour,6,Snow,7,Medium
+Greece,Foreign,Rainy,March,78342,94122,Trek,6,Medium,10,Medium
+Japan,Foreign,Winter,February,46591,190638,Leisure,-1,High,4,Medium
+Valley of Flowers,India,Winter,August,41831,141358,Leisure,8,High,7,High
+Bali,Foreign,Spring,March,46358,180142,Trek,25,Snow,3,Low
+Tawang,India,Summer,April,29004,43405,Leisure,6,Medium,10,Medium
+Rishikesh,India,Spring,January,62870,161329,Leisure,19,Snow,4,High
+Norway,Foreign,Winter,February,50823,80353,Trek,8,Medium,5,High
+Maldives,Foreign,Rainy,October,91918,152596,Tour,23,Medium,9,Low
+Ooty,India,Spring,November,17360,108515,Tour,8,Low,9,Medium
+New York,Foreign,Summer,June,25155,37724,Tour,19,Snow,10,High
+Mount Abu,India,Autumn,November,5760,97117,Tour,31,Snow,8,High
+Austria,Foreign,Autumn,March,32704,50465,Adventure,10,Low,4,High
+Canada,Foreign,Spring,February,57279,129168,Trek,5,Snow,4,Low
+Morocco,Foreign,Winter,March,55921,166406,Adventure,31,Medium,4,Medium
+Dubai,Foreign,Spring,December,45645,85061,Adventure,32,Low,8,High
+Andaman,India,Spring,August,55867,185762,Adventure,26,Snow,4,Medium
+Brazil,Foreign,Rainy,October,29426,148224,Leisure,-5,Low,8,Medium
+Italy,Foreign,Winter,November,94946,140596,Leisure,23,Low,7,Medium
+Sri Lanka,Foreign,Summer,August,44373,88329,Trek,33,High,6,High
+Sri Lanka,Foreign,Rainy,October,11255,160694,Tour,-8,Low,9,Medium
+Jaipur,India,Spring,November,99412,170834,Adventure,6,Low,3,Low
+South Korea,Foreign,Spring,March,28882,136893,Tour,-5,Snow,7,Medium
+New York,Foreign,Spring,November,63975,138462,Adventure,1,Medium,5,Low
+South Korea,Foreign,Autumn,May,93265,126138,Leisure,24,Low,3,Medium
+Rishikesh,India,Summer,March,90957,221031,Leisure,34,Snow,10,Medium
+Australia,Foreign,Autumn,June,95526,204072,Adventure,-5,Medium,5,Low
+Andaman,India,Summer,January,96230,150571,Tour,3,Snow,5,High
+Ooty,India,Spring,November,75593,130640,Tour,9,Snow,5,Medium
+Sri Lanka,Foreign,Summer,February,26771,71727,Leisure,21,Snow,3,Medium
+New York,Foreign,Winter,April,43644,151334,Tour,11,Low,4,High
+Morocco,Foreign,Spring,July,69972,151196,Tour,21,Snow,10,High
+New York,Foreign,Autumn,November,68950,134742,Tour,23,Low,9,High
+Bali,Foreign,Autumn,February,40107,154457,Leisure,-3,Snow,8,Medium
+Spain,Foreign,Spring,January,26146,106646,Trek,20,High,10,Low
+Maldives,Foreign,Winter,October,94780,188686,Leisure,-2,High,9,Medium
+Egypt,Foreign,Rainy,August,26237,85555,Adventure,34,Low,10,Low
+Goa,India,Winter,March,84396,218419,Tour,16,Snow,7,Low
+Darjeeling,India,Autumn,January,7376,106429,Adventure,12,Medium,5,High
+Valley of Flowers,India,Summer,June,61442,96318,Trek,-3,Medium,10,Medium
+Thailand,Foreign,Rainy,January,78010,153131,Trek,34,Low,3,Medium
+Brazil,Foreign,Spring,February,18879,50583,Tour,22,Low,5,High
+Rishikesh,India,Winter,June,25582,107160,Leisure,22,Snow,4,Low
+Iceland,Foreign,Rainy,June,23058,60297,Trek,18,Snow,3,Low
+Egypt,Foreign,Spring,June,42585,179973,Trek,-5,High,8,High
+Hong Kong,Foreign,Spring,June,87502,156845,Trek,23,Snow,6,Low
+Brazil,Foreign,Spring,July,58648,183907,Adventure,-9,Snow,5,Low
+Germany,Foreign,Autumn,February,16112,109796,Adventure,15,Medium,9,Low
+Nepal,Foreign,Summer,November,89078,133649,Tour,30,High,9,Medium
+Italy,Foreign,Autumn,May,99575,186808,Adventure,-10,High,5,High
+Nepal,Foreign,Spring,November,31887,179604,Leisure,34,High,9,Low
+Hampi,India,Summer,January,75442,168127,Leisure,-2,High,6,Low
+Maldives,Foreign,Autumn,May,73332,167646,Trek,-9,Low,7,Low
+Egypt,Foreign,Rainy,December,60410,197864,Tour,-7,High,7,High
+Maldives,Foreign,Rainy,February,11256,48958,Leisure,9,Low,10,Medium
+Ooty,India,Autumn,October,98670,243468,Trek,12,High,7,High
+Peru,Foreign,Autumn,November,23346,127348,Trek,-4,High,6,Medium
+Japan,Foreign,Summer,March,98276,214868,Leisure,-5,Low,3,Medium
+Kashmir,India,Spring,April,63479,88945,Adventure,33,Snow,9,Medium
+New York,Foreign,Spring,November,60498,180862,Leisure,16,Medium,5,High
+Kashmir,India,Spring,December,64993,103910,Tour,34,Medium,10,Medium
+Valley of Flowers,India,Winter,September,53409,89542,Leisure,-3,Low,8,High
+Pondicherry,India,Summer,September,25093,60958,Adventure,9,High,7,Medium
+Dubai,Foreign,Summer,March,23630,139191,Tour,9,High,6,Low
+South Africa,Foreign,Spring,January,21033,169566,Adventure,-6,Low,9,Medium
+London,Foreign,Rainy,October,64293,157851,Leisure,20,Medium,5,High
+New Zealand,Foreign,Spring,August,92453,215175,Trek,10,Low,9,Medium
+Meghalaya,India,Spring,June,75909,92920,Leisure,7,Low,5,High
+Leh-Ladakh,India,Autumn,November,97720,183682,Tour,31,Low,6,High
+Malaysia,Foreign,Autumn,January,79743,221517,Trek,20,Low,4,High
+Malaysia,Foreign,Winter,January,41039,99989,Trek,35,Snow,4,High
+Canada,Foreign,Rainy,July,82187,98979,Leisure,-9,High,9,Low
+Bhutan,Foreign,Summer,September,46599,151740,Adventure,-5,Low,4,High
+Spiti Valley,India,Rainy,March,28942,100934,Tour,-1,High,9,High
+Spiti Valley,India,Summer,October,47636,100204,Tour,35,Low,7,Medium
+Jaipur,India,Rainy,March,59109,149100,Adventure,14,Low,3,Low
+Ooty,India,Autumn,October,35997,170228,Leisure,-3,High,3,Medium
+Japan,Foreign,Autumn,July,13579,145501,Tour,16,Medium,3,Medium
+Paris,Foreign,Autumn,November,18305,87875,Trek,9,Snow,10,Low
+Morocco,Foreign,Autumn,April,23660,126519,Trek,5,Snow,10,Low
+Manali,India,Spring,October,42912,91790,Tour,-7,Snow,7,High
+Shimla,India,Spring,June,87864,148636,Adventure,-8,Medium,4,Medium
+Auli,India,Spring,December,21118,62726,Adventure,17,Medium,8,High
+Thailand,Foreign,Rainy,December,64338,140906,Trek,32,High,8,Low
+Japan,Foreign,Autumn,June,7080,47135,Tour,28,Snow,3,Low
+Italy,Foreign,Winter,July,77848,211030,Leisure,24,Low,4,High
+Leh-Ladakh,India,Spring,November,21176,118711,Leisure,28,High,9,Low
+Egypt,Foreign,Summer,February,65646,167765,Trek,18,Low,6,High
+Leh-Ladakh,India,Rainy,November,97955,196755,Trek,-5,High,6,Low
+Dubai,Foreign,Rainy,January,41799,175993,Trek,-10,Medium,9,Low
+Norway,Foreign,Rainy,October,70578,205080,Trek,25,Medium,5,Low
+New York,Foreign,Winter,December,13526,51931,Adventure,26,Medium,7,Low
+Morocco,Foreign,Summer,December,93832,238539,Adventure,33,Snow,3,Medium
+Iceland,Foreign,Summer,June,61694,173354,Adventure,-3,Snow,10,Medium
+Singapore,Foreign,Summer,December,34431,51742,Adventure,16,Snow,8,Low
+Nepal,Foreign,Winter,June,15722,27373,Trek,34,Snow,4,Low
+Andaman,India,Winter,June,45737,67211,Tour,-9,Snow,9,Low
+New York,Foreign,Rainy,May,37394,70663,Leisure,5,High,3,Medium
+Singapore,Foreign,Winter,February,83638,203595,Tour,30,Snow,4,Low
+Munnar,India,Summer,July,46062,68108,Trek,-7,Snow,3,Medium
+Australia,Foreign,Spring,February,18346,37971,Tour,8,Snow,9,Low
+Australia,Foreign,Spring,April,83587,91367,Leisure,14,Snow,9,High
+Australia,Foreign,Summer,June,90317,102125,Leisure,23,High,6,Low
+Jaipur,India,Summer,October,98493,121199,Trek,26,Medium,7,Medium
+Bhutan,Foreign,Spring,December,86376,207931,Trek,5,Medium,3,Low
+Kashmir,India,Rainy,October,62127,201639,Adventure,9,Medium,5,Medium
+Hampi,India,Autumn,June,43150,144836,Tour,23,Medium,3,Low
+Maldives,Foreign,Autumn,January,60320,155449,Trek,2,Medium,4,Medium
+Andaman,India,Spring,December,95680,223206,Adventure,27,High,7,Medium
+Thailand,Foreign,Winter,February,64546,80606,Leisure,4,Low,6,High
+Meghalaya,India,Spring,October,32936,100593,Leisure,11,Snow,6,Medium
+Goa,India,Summer,June,6296,30624,Adventure,-9,Low,5,Medium
+Indonesia,Foreign,Winter,November,81767,181115,Tour,-9,Medium,6,Medium
+Goa,India,Winter,May,99219,149906,Adventure,25,Medium,5,Low
+Leh-Ladakh,India,Winter,May,18263,28766,Trek,14,Low,8,Low
+Hampi,India,Spring,April,53449,156058,Trek,23,Snow,4,Low
+Tawang,India,Winter,April,30124,174730,Leisure,34,High,8,High
+Sri Lanka,Foreign,Winter,January,85744,140315,Adventure,-1,High,6,Low
+New Zealand,Foreign,Rainy,March,71619,204804,Trek,-5,Snow,4,Low
+Maldives,Foreign,Spring,November,71736,174847,Leisure,23,Snow,5,Medium
+Germany,Foreign,Rainy,September,96030,227723,Leisure,20,High,9,High
+Peru,Foreign,Autumn,November,9797,69113,Trek,2,Snow,6,Medium
+Darjeeling,India,Rainy,July,54425,100636,Adventure,6,Low,5,Low
+Pondicherry,India,Spring,September,51081,116420,Tour,19,High,9,Medium
+Japan,Foreign,Spring,July,53170,188597,Adventure,7,Snow,3,Low
+Indonesia,Foreign,Winter,May,89587,114480,Adventure,-5,High,4,Medium
+Meghalaya,India,Summer,February,14351,113784,Tour,24,Medium,8,Low
+Italy,Foreign,Rainy,May,44677,121626,Trek,35,Medium,7,Low
+Philippines,Foreign,Rainy,May,50433,161289,Leisure,27,Low,10,High
+Maldives,Foreign,Winter,July,34829,99316,Trek,20,Medium,10,High
+South Africa,Foreign,Spring,June,16255,103325,Trek,17,Snow,6,Medium
+Indonesia,Foreign,Autumn,January,54112,95536,Trek,9,Low,10,High
+Egypt,Foreign,Rainy,June,34555,149431,Leisure,33,Snow,7,Medium
+New York,Foreign,Summer,October,9221,50694,Trek,11,Snow,9,Low
+Nepal,Foreign,Summer,September,55650,110021,Leisure,-4,High,10,High
+Hampi,India,Summer,March,18672,168613,Trek,-8,Snow,3,Low
+Andaman,India,Summer,July,42200,101173,Trek,8,Low,10,Low
+Switzerland,Foreign,Autumn,January,27521,118182,Leisure,15,Medium,4,Low
+Malaysia,Foreign,Spring,August,14012,120984,Trek,-2,Medium,7,Medium
+South Africa,Foreign,Spring,March,84129,170475,Trek,22,Snow,7,Low
+Manali,India,Winter,August,13384,123041,Trek,23,High,10,Medium
+Japan,Foreign,Autumn,January,16941,97415,Leisure,12,High,9,High
+South Africa,Foreign,Winter,July,37654,89729,Leisure,19,Snow,5,High
+London,Foreign,Summer,July,96572,113018,Trek,0,High,7,High
+Coorg,India,Winter,August,58907,208826,Tour,13,Low,4,High
+Philippines,Foreign,Rainy,July,64105,112316,Adventure,3,Low,10,Low
+Coorg,India,Spring,July,50043,159728,Trek,15,Low,3,Medium
+Rishikesh,India,Winter,June,92856,219555,Leisure,19,Low,4,High
+Greece,Foreign,Winter,December,62373,104140,Leisure,7,Medium,5,Low
+Canada,Foreign,Summer,March,43554,81099,Leisure,0,Low,3,High
+Mount Abu,India,Winter,August,51935,103580,Trek,35,Low,6,Medium
+Spain,Foreign,Summer,November,73534,105480,Leisure,34,High,10,Low
+Canada,Foreign,Summer,January,54465,112349,Trek,13,Medium,6,Low
+Leh-Ladakh,India,Spring,January,6908,100281,Trek,33,Low,6,Low
+Brazil,Foreign,Winter,December,26895,43432,Leisure,22,Low,8,Medium
+Paris,Foreign,Winter,October,32147,179151,Leisure,17,Low,6,Low
+Jaipur,India,Rainy,June,27756,36686,Leisure,31,High,3,Medium
+Darjeeling,India,Spring,April,13652,91647,Adventure,-8,Low,6,Medium
+Hampi,India,Autumn,August,18344,163900,Trek,6,Low,8,High
+Spain,Foreign,Spring,November,95927,135774,Adventure,1,High,10,Low
+Thailand,Foreign,Summer,October,81681,204360,Leisure,22,Medium,3,Low
+Leh-Ladakh,India,Autumn,February,45481,112450,Leisure,5,Low,3,Low
+Switzerland,Foreign,Spring,May,31478,76237,Leisure,3,Low,6,High
+Canada,Foreign,Spring,December,48082,88279,Adventure,10,Low,9,High
+South Africa,Foreign,Rainy,January,35016,126856,Adventure,5,Medium,3,High
+Ooty,India,Winter,October,55002,196702,Adventure,1,Snow,3,Low
+Norway,Foreign,Spring,February,30226,48885,Trek,3,Medium,4,Low
+New York,Foreign,Autumn,April,35973,173991,Tour,17,Snow,7,Low
+Austria,Foreign,Winter,April,60576,111827,Trek,9,High,10,High
+Andaman,India,Rainy,August,15487,114749,Leisure,14,Medium,10,Medium
+Sri Lanka,Foreign,Autumn,October,61810,107672,Leisure,-9,Snow,9,Low
+Hong Kong,Foreign,Rainy,October,75411,120466,Trek,6,Snow,10,Medium
+Japan,Foreign,Rainy,July,78681,209731,Tour,11,Medium,10,Low
+Tawang,India,Winter,January,6682,142937,Adventure,21,Snow,9,Medium
+South Korea,Foreign,Rainy,July,69166,154856,Tour,16,Low,4,Medium
+London,Foreign,Winter,April,62186,134100,Adventure,22,Snow,8,High
+Munnar,India,Spring,July,37347,105878,Leisure,-8,High,3,High
+Greece,Foreign,Winter,May,84355,208753,Trek,6,Medium,5,Low
+Rishikesh,India,Summer,November,98272,204026,Leisure,35,Low,6,Medium
+Spiti Valley,India,Spring,May,95680,179905,Leisure,27,High,9,High
+Norway,Foreign,Summer,February,88385,183665,Trek,7,Medium,9,High
+Hampi,India,Summer,March,69451,74864,Tour,-6,Snow,9,High
+Pondicherry,India,Spring,March,28121,131333,Trek,35,Medium,6,Medium
+Goa,India,Autumn,February,64069,124793,Trek,2,Low,5,Low
+Shimla,India,Spring,August,87160,120784,Trek,-5,High,4,Medium
+Rishikesh,India,Rainy,February,49846,62622,Trek,20,Snow,4,Low
+Munnar,India,Rainy,January,92205,108178,Tour,3,Low,9,High
+Singapore,Foreign,Rainy,August,67027,160377,Leisure,11,High,8,Medium
+South Africa,Foreign,Winter,June,92173,201629,Leisure,29,Low,8,Medium
+Brazil,Foreign,Summer,January,64889,175220,Trek,-9,Low,7,High
+Hong Kong,Foreign,Winter,June,64233,193803,Leisure,32,Medium,3,High
+South Africa,Foreign,Rainy,January,88070,187495,Tour,10,Snow,6,High
+Dubai,Foreign,Spring,December,85293,111623,Adventure,17,Snow,4,High
+Finland,Foreign,Rainy,October,30569,73097,Tour,-2,Snow,4,Medium
+Egypt,Foreign,Autumn,August,27027,149018,Tour,20,Medium,6,Low
+Spiti Valley,India,Summer,February,62002,74662,Trek,10,Snow,7,Low
+Austria,Foreign,Rainy,November,67429,104698,Trek,24,Snow,4,High
+Thailand,Foreign,Winter,October,83732,105684,Adventure,14,Snow,9,Low
+Meghalaya,India,Rainy,February,43138,71122,Tour,-5,High,6,High
+Rishikesh,India,Autumn,June,21700,108848,Leisure,26,Low,7,Low
+New York,Foreign,Autumn,April,55875,171945,Adventure,13,Medium,6,Low
+Nepal,Foreign,Summer,September,65372,153190,Trek,8,Medium,10,High
+Japan,Foreign,Winter,October,42144,85383,Tour,28,High,7,High
+Spain,Foreign,Summer,May,97605,227983,Trek,21,High,9,Low
+Brazil,Foreign,Rainy,March,98947,159157,Trek,34,Low,5,Medium
+Austria,Foreign,Spring,May,91409,138140,Tour,25,Snow,8,Medium
+Italy,Foreign,Spring,June,56296,163810,Tour,23,High,7,High
+Andaman,India,Autumn,July,17755,57069,Adventure,27,Low,7,Medium
+Iceland,Foreign,Winter,October,23030,143867,Leisure,8,Medium,6,Low
+Brazil,Foreign,Winter,December,90359,97753,Adventure,26,Low,5,Medium
+Sri Lanka,Foreign,Winter,January,17589,115803,Leisure,1,Low,4,High
+Iceland,Foreign,Rainy,October,61861,105807,Leisure,5,Low,4,Low
+Nepal,Foreign,Spring,May,95175,145391,Leisure,34,Low,10,High
+Finland,Foreign,Rainy,November,90615,212300,Adventure,-10,Low,4,Low
+Rishikesh,India,Spring,November,92659,231286,Trek,-9,Snow,7,High
+South Korea,Foreign,Summer,October,28736,134388,Leisure,31,Snow,7,High
+Kashmir,India,Summer,June,13322,159227,Trek,15,Low,9,High
+South Africa,Foreign,Autumn,September,69036,90795,Tour,3,Low,5,High
+Spain,Foreign,Winter,January,77708,199947,Adventure,-3,Low,5,High
+Darjeeling,India,Winter,February,78727,151035,Tour,-5,Low,7,Medium
+Malaysia,Foreign,Winter,July,91266,96288,Trek,9,Low,7,High
+Malaysia,Foreign,Spring,March,80637,214203,Adventure,23,High,6,High
+Jaipur,India,Summer,April,9814,64116,Trek,9,Medium,5,High
+Paris,Foreign,Winter,October,52063,129780,Trek,29,Snow,4,High
+Shimla,India,Rainy,July,90166,137979,Leisure,19,Low,7,High
+Sri Lanka,Foreign,Winter,September,31707,55203,Adventure,30,Medium,8,High
+Greece,Foreign,Autumn,October,26501,141519,Trek,10,Snow,9,Low
+Canada,Foreign,Winter,February,40405,78073,Tour,33,Snow,4,Medium
+New Zealand,Foreign,Summer,June,48714,125345,Trek,4,High,3,Low
+Finland,Foreign,Winter,July,18762,56137,Trek,23,High,10,Low
+Singapore,Foreign,Rainy,December,79993,158916,Adventure,28,Low,3,Low
+Bali,Foreign,Spring,March,50242,194619,Leisure,20,Medium,7,Low
+Italy,Foreign,Autumn,December,25380,63506,Trek,14,High,3,High
+New Zealand,Foreign,Rainy,December,37651,152291,Leisure,1,Snow,8,Medium
+Maldives,Foreign,Rainy,May,61068,202538,Trek,9,Low,7,Medium
+Philippines,Foreign,Rainy,February,88188,114021,Tour,5,Low,5,High
+Munnar,India,Summer,December,42467,176664,Tour,17,Medium,10,Medium
+Maldives,Foreign,Autumn,December,21343,132634,Tour,29,Medium,3,High
+Sri Lanka,Foreign,Autumn,December,50227,119249,Tour,28,Snow,5,High
+Hong Kong,Foreign,Autumn,April,27913,52605,Adventure,-2,High,3,Medium
+Dubai,Foreign,Spring,March,53927,88610,Adventure,33,Medium,4,Medium
+Hampi,India,Spring,May,39701,100554,Tour,30,Snow,6,Medium
+Iceland,Foreign,Autumn,January,65693,198689,Tour,12,Low,10,Medium
+Hampi,India,Rainy,February,5675,102352,Trek,15,High,3,Low
+Sri Lanka,Foreign,Spring,April,16107,159806,Trek,16,Low,10,Low
+Tawang,India,Rainy,April,66695,175335,Adventure,9,High,9,Low
+Malaysia,Foreign,Rainy,February,62484,182658,Trek,-2,High,9,Low
+Vietnam,Foreign,Winter,February,29846,109530,Tour,-2,Snow,9,High
+Thailand,Foreign,Summer,March,92320,149484,Leisure,32,High,4,Medium
+Dubai,Foreign,Autumn,August,94356,132762,Adventure,15,Snow,5,Low
+Jaipur,India,Summer,March,25387,120596,Tour,33,Medium,3,High
+Egypt,Foreign,Rainy,July,83261,90365,Leisure,20,High,7,Medium
+Auli,India,Spring,April,85951,130926,Trek,5,High,4,Medium
+Spain,Foreign,Winter,November,61250,118262,Leisure,35,Low,5,Low
+Morocco,Foreign,Autumn,November,88162,132149,Trek,-3,Medium,9,Low
+Mount Abu,India,Winter,March,60876,70505,Trek,-5,Low,9,Medium
+Singapore,Foreign,Rainy,December,88009,153676,Trek,11,Snow,10,Low
+Maldives,Foreign,Spring,November,11770,96537,Tour,7,High,7,Medium
+Germany,Foreign,Spring,April,46922,64388,Trek,-8,Low,3,High
+South Korea,Foreign,Rainy,April,42397,171144,Adventure,28,Low,9,Low
+Shimla,India,Spring,June,48815,133600,Tour,-4,Low,5,Medium
+Switzerland,Foreign,Rainy,December,82189,225827,Adventure,5,High,6,High
+Finland,Foreign,Summer,February,22102,58652,Tour,27,Medium,6,High
+Indonesia,Foreign,Summer,February,76641,171529,Adventure,20,Medium,5,Low
+Kashmir,India,Winter,July,77154,148352,Adventure,13,Snow,4,Medium
+Coorg,India,Spring,July,73650,210736,Tour,0,High,5,Medium
+Valley of Flowers,India,Autumn,January,95938,150795,Leisure,21,Low,5,Medium
+Hong Kong,Foreign,Autumn,July,78727,186027,Leisure,28,High,6,Low
+Manali,India,Winter,October,33548,40870,Leisure,22,High,7,Low
+Pondicherry,India,Rainy,September,20611,70466,Trek,-8,Medium,7,Low
+New Zealand,Foreign,Winter,May,22428,98320,Tour,31,Medium,6,High
+Rishikesh,India,Summer,November,50542,152302,Adventure,-5,High,5,Medium
+Australia,Foreign,Rainy,June,12505,20233,Adventure,4,High,5,Medium
+Leh-Ladakh,India,Autumn,November,81449,114352,Leisure,31,High,6,Medium
+Meghalaya,India,Rainy,May,31728,140396,Trek,18,Medium,9,Medium
+Tawang,India,Spring,February,70006,122588,Leisure,1,Medium,6,High
+Dubai,Foreign,Winter,November,41968,52485,Adventure,0,Medium,9,High
+Canada,Foreign,Winter,February,23811,47698,Leisure,5,Snow,9,Low
+Austria,Foreign,Autumn,March,6545,37688,Leisure,14,Low,4,Low
+Hong Kong,Foreign,Summer,March,37550,64464,Adventure,-1,Low,3,Low
+Malaysia,Foreign,Rainy,December,16136,74173,Trek,20,Snow,5,Medium
+Thailand,Foreign,Spring,March,36956,56603,Adventure,30,Low,3,Low
+Jaipur,India,Autumn,May,18443,157540,Leisure,-1,Low,6,Low
+Meghalaya,India,Spring,July,24316,121934,Adventure,4,Snow,4,Medium
+Spiti Valley,India,Summer,April,18334,97209,Adventure,-6,High,4,Medium
+Auli,India,Summer,October,24805,76484,Leisure,23,High,5,High
+Sri Lanka,Foreign,Winter,November,95067,179120,Adventure,12,Low,7,Medium
+Greece,Foreign,Rainy,May,98232,123251,Tour,-1,Medium,8,Low
+Finland,Foreign,Spring,December,67709,90354,Tour,26,Snow,7,Low
+Auli,India,Rainy,March,28838,134768,Adventure,10,Snow,9,Medium
+Spain,Foreign,Spring,October,88440,180855,Trek,31,Medium,9,Medium
+Paris,Foreign,Spring,September,74962,209094,Trek,14,Low,9,High
+London,Foreign,Winter,December,16436,83090,Adventure,-10,Medium,3,Medium
+Paris,Foreign,Spring,March,19438,40055,Adventure,13,Medium,7,Medium
+Tawang,India,Autumn,July,36784,97027,Trek,-7,Medium,4,High
+Germany,Foreign,Winter,July,8453,124787,Adventure,-7,Low,4,Medium
+Egypt,Foreign,Autumn,March,8956,52461,Adventure,-1,Low,6,Low
+Manali,India,Autumn,July,24623,77444,Leisure,-2,High,10,Medium
+Austria,Foreign,Rainy,August,89521,97983,Adventure,-3,Medium,3,High
+Valley of Flowers,India,Autumn,March,70967,118001,Tour,15,Snow,10,High
+Germany,Foreign,Rainy,October,70781,156005,Trek,17,Medium,7,Low
+Singapore,Foreign,Spring,March,32769,142732,Tour,4,Snow,5,High
+Paris,Foreign,Autumn,February,95757,223554,Leisure,10,Snow,9,Low
+Munnar,India,Rainy,November,60603,116650,Adventure,-4,Low,4,Medium
+Canada,Foreign,Rainy,January,36395,115373,Trek,24,Low,4,Low
+Canada,Foreign,Summer,May,29607,179229,Trek,30,Low,6,Medium
+Auli,India,Autumn,October,10881,142708,Tour,-7,High,4,Medium
+Manali,India,Rainy,May,57184,193312,Trek,10,Snow,8,Low
+Spain,Foreign,Summer,June,58383,195393,Tour,22,Medium,3,High
+Peru,Foreign,Spring,August,81855,96661,Adventure,0,Medium,10,Low
+New Zealand,Foreign,Summer,December,35352,96882,Trek,35,Medium,8,Medium
+Peru,Foreign,Winter,June,43121,142575,Leisure,-8,Snow,6,Low
+Australia,Foreign,Autumn,February,24975,160397,Tour,-10,Medium,7,High
+Norway,Foreign,Summer,August,17335,141560,Adventure,0,High,5,Low
+Mount Abu,India,Autumn,June,51316,79706,Tour,1,Snow,7,Medium
+Shimla,India,Spring,November,23408,60905,Leisure,-8,High,7,Medium
+Bhutan,Foreign,Autumn,November,21906,142466,Adventure,22,High,8,Low
+Italy,Foreign,Spring,September,63994,137892,Tour,29,Low,6,High
+South Africa,Foreign,Autumn,January,25258,57861,Adventure,14,Medium,9,Low
+Meghalaya,India,Spring,August,92706,122217,Adventure,19,Snow,10,Low
+Auli,India,Winter,December,19201,128257,Leisure,2,Snow,8,Low
+Bali,Foreign,Rainy,October,68739,129480,Leisure,-3,High,10,Low
+Malaysia,Foreign,Winter,August,24072,85031,Adventure,26,Low,9,Low
+Brazil,Foreign,Rainy,July,67050,127996,Tour,3,Low,9,Medium
+Shimla,India,Winter,February,23577,46732,Adventure,15,Low,7,High
+Indonesia,Foreign,Spring,September,33063,106075,Trek,-7,Low,9,Medium
+Hong Kong,Foreign,Rainy,March,31031,127591,Leisure,20,Snow,5,High
+Sri Lanka,Foreign,Rainy,December,79752,186762,Tour,25,Medium,4,High
+Greece,Foreign,Autumn,October,23955,113819,Adventure,-10,Medium,10,Low
+Dubai,Foreign,Rainy,February,93335,204866,Adventure,23,Low,10,Low
+New Zealand,Foreign,Spring,November,80809,111353,Tour,3,Medium,9,High
+Malaysia,Foreign,Winter,October,54487,116146,Adventure,3,Medium,3,Medium
+South Africa,Foreign,Rainy,January,44576,130045,Tour,34,Snow,10,Medium
+Bhutan,Foreign,Rainy,June,76102,192735,Adventure,-3,Medium,10,Medium
+Switzerland,Foreign,Winter,September,82973,130612,Leisure,14,High,9,High
+Pondicherry,India,Autumn,February,16484,48697,Tour,31,Low,9,Low
+Dubai,Foreign,Autumn,September,18068,139487,Tour,32,High,9,Low
+Meghalaya,India,Spring,September,54948,89963,Trek,20,Low,8,Medium
+Bhutan,Foreign,Spring,January,54105,117808,Adventure,7,High,7,Medium
+Italy,Foreign,Winter,January,59336,72901,Tour,-9,Medium,8,High
+South Africa,Foreign,Autumn,June,48920,98592,Leisure,5,Snow,6,High
+Iceland,Foreign,Spring,January,80740,198226,Trek,30,Snow,5,Medium
+Bali,Foreign,Autumn,March,62331,127878,Tour,35,Medium,4,High
+London,Foreign,Spring,November,39108,189048,Trek,10,Medium,4,Low
+Leh-Ladakh,India,Spring,January,87430,132550,Tour,29,Low,9,Low
+South Korea,Foreign,Winter,August,88160,187039,Trek,5,Medium,7,Low
+Malaysia,Foreign,Winter,December,54559,127842,Tour,7,Low,5,High
+Leh-Ladakh,India,Autumn,February,19540,144897,Tour,-4,Medium,7,Medium
+Goa,India,Summer,February,69781,169519,Trek,15,Low,10,Low
+Bhutan,Foreign,Summer,August,87009,112013,Trek,33,Snow,9,Medium
+New Zealand,Foreign,Spring,March,28567,111883,Tour,1,Low,4,Medium
+Vietnam,Foreign,Spring,October,83642,231899,Tour,0,High,4,Low
+Canada,Foreign,Summer,September,8019,148808,Trek,3,High,4,Low
+Leh-Ladakh,India,Rainy,March,33804,60678,Trek,7,High,10,Low
+Auli,India,Rainy,December,77285,159439,Leisure,21,Snow,9,Low
+Shimla,India,Winter,April,95053,173737,Leisure,-4,High,5,Low
+Austria,Foreign,Spring,July,63478,179558,Adventure,10,Low,9,Medium
+Andaman,India,Autumn,June,54015,75862,Leisure,0,Low,7,High
+Bhutan,Foreign,Rainy,October,89554,233620,Adventure,15,Low,4,Low
+Brazil,Foreign,Rainy,July,29368,128148,Trek,-6,Medium,8,Medium
+Tawang,India,Rainy,February,6262,94778,Tour,35,High,6,Medium
+London,Foreign,Rainy,April,78615,100978,Leisure,8,Medium,6,Low
+Paris,Foreign,Rainy,December,84679,109293,Leisure,33,Snow,8,Medium
+Andaman,India,Winter,January,69740,205458,Tour,7,Snow,4,Low
+Indonesia,Foreign,Winter,October,47844,153207,Trek,26,Low,7,Low
+Iceland,Foreign,Autumn,January,65525,145069,Trek,15,Low,3,Medium
+Iceland,Foreign,Summer,February,66589,96524,Leisure,9,High,8,Medium
+Nepal,Foreign,Summer,September,46048,180499,Tour,15,High,10,Medium
+Morocco,Foreign,Summer,June,85999,117932,Tour,4,Low,3,Low
+Jaipur,India,Rainy,December,99929,219140,Trek,0,Low,6,High
+Brazil,Foreign,Rainy,September,5647,24407,Adventure,-8,Low,3,Medium
+Coorg,India,Rainy,June,95167,199665,Adventure,34,Medium,5,High
+Japan,Foreign,Summer,March,46855,90652,Leisure,30,Snow,4,High
+Singapore,Foreign,Winter,October,67642,201119,Adventure,10,Snow,6,Low
+Shimla,India,Rainy,December,15852,113391,Trek,32,Medium,4,Low
+Dubai,Foreign,Summer,April,6720,68378,Leisure,14,Medium,10,Low
+Thailand,Foreign,Winter,October,74159,213881,Adventure,9,Snow,5,High
+Jaipur,India,Winter,April,52663,158739,Leisure,29,Medium,9,Low
+Coorg,India,Rainy,July,26521,112037,Tour,-1,Snow,4,High
+Rishikesh,India,Winter,January,65404,119432,Adventure,-9,Snow,10,Medium
+Shimla,India,Summer,September,16018,113928,Leisure,3,Medium,9,High
